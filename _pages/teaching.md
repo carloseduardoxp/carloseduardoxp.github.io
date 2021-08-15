@@ -25,12 +25,16 @@ IFTM (2014-current)
   - 2014-second semester: Software Engineering 2
   - 2014-first semester: Software Engineering 2
 
+--- 
+
 2 - [Computer Licenciation undergraduate](https://iftm.edu.br/uberlandiacentro/cursos/graduacao-presencial/sistemas-para-internet/)
 
 - Teaching
   - 2016-first semester: Operating Systems.
   - 2014-second semester: Advanced Database.
   - 2014-first semester: Computer Architeture, Database Fundamentals.
+
+--- 
 
 3 - [System Analysis and Development Applied to Business Management specialization](https://iftm.edu.br/uberlandiacentro/cursos/posgraduacao-lato-presencial/analise-e-desenvolvimento-de-sistemas-aplicados-a-gestao-empresarial/)
 
@@ -46,6 +50,8 @@ IFTM (2014-current)
   - 2015-first semester: Object Oriented Programming
   - 2014-second semester: System Development, Project Management.
   - 2014-first semester:
+
+--- 
 
 4 - Head of I,II,III and IV IFTM Programming Contest
 
@@ -72,6 +78,8 @@ UNITRI (2008-2014)
  - 2009-second semester:Distributed Systems and Concurrence Programming, Operating Systems,Theory of computation
  - 2009-first semester: Distributed Systems and Concurrence Programming
 
+--- 
+
 2 - BsC. Information Systems undergraduate
 - Advisor of 2 undergraduate final work students.
 - Teaching
@@ -79,13 +87,19 @@ UNITRI (2008-2014)
   - 2010-second semester: Supervised internship 
   - 2010-first semester: Programming Languages
 
+--- 
+
 3 - BsC. Civil Engineering undergraduate
 - Teaching
   - 2009-second semester: Operational Research II
 
+--- 
+
 4 - BsC. Psychology undergraduate
 - Teaching
   - 2009-second semester: Statistics
+
+--- 
 
 5 - Computer Nets technology undergraduate
 - Teaching
@@ -93,7 +107,9 @@ UNITRI (2008-2014)
   - 2011-first semester: Distributed Systems
   - 2010-second semester: Supervised internship 
   - 2010-first semester: Distributed Systems
-  
+
+--- 
+
 6 - Java Development specialization
 - Advisor of 15 specialization final work students.
 - Teaching
@@ -108,7 +124,9 @@ UNITRI (2008-2014)
   - 2010-second semester: Graphical Tools and Reports
   - 2009-first semester: UML & Design Patterns
   - 2008-second semester: Graphical Tools and Reports
-  
+
+--- 
+
 7 - Business Management specialization
 - Teaching
   - 2010-second semester: Information Technology
