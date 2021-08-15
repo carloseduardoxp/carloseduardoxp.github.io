@@ -19,9 +19,9 @@ M.Sc. in Computer Science (2014-2017)
 Federal University of Uberlândia
 M.Sc. Degree at Department of Computer Science at the Computing Faculty (FACOM) under the supervision of Prof. Marcelo de Almeida Maia
 
-Monograph topic: [A quantitative study about the use of inheritance and interface in Java Systems (In Portuguese)](https://carloseduardoxp.github.io/files/_2017_02_UFU__Disserta__o.pdf).
+Monograph topic: [A quantitative study about the use of inheritance and interface in Java Systems (In Portuguese)](https://carloseduardoxp.github.io/files/msc-monograph.pdf).
 
-[Slides](https://carloseduardoxp.github.io/files/_2017_02_UFU__Disserta__o.pdf)
+[Slides](https://carloseduardoxp.github.io/files/msc-slides.pdf)
 
 Specialization in Java Development (2006-2007)
 ---
