@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Carlos Eduardo Dantas"
   avatar           : "servletrecuperafoto.jpeg"
-  bio              : "Professor, IFTM"
+  bio              : "Professor, IFTM <br> PhD Student, UFU"
   location         : "Uberlândia - Brazil"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "carloseduardodantas@iftm.edu.br"
   researchgate     :  "https://www.researchgate.net/profile/Carlos-Dantas-8"
   uri              :
   bitbucket        :
