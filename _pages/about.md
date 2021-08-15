@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 # About Me
-* I am Professor in [Instituto Federal de Ciência e Tecnologia do Triângulo Mineiro](https://iftm.edu.br/).
-* I am a Ph.D. student in the [Computer Science on Intelligent Software Engineering Lab](http://www.isel.ufu.br/) at [Universidade Federal de Uberlândia ](https://www.ufu.br/), advised by Prof. [Marcelo de Almeida Maia](http://www.portal.facom.ufu.br/pessoas/docentes/marcelo-de-almeida-maia). [[Curriculum Vitae](http://lattes.cnpq.br/9157131878203641)] 
 
-* My main research interests includes software repository mining for program comprehension and recommendation systems for software development.
+I am Software Engineering Professor at [Federal Institute of Science and Tecnology at Triângulo Mineiro](https://iftm.edu.br/), in Uberlândia/MG (IFTM, 2014-current) and PhD candidate at the [Computer Faculty (FACOM)](http://www.portal.facom.ufu.br/) at [Federal University of Uberlândia](http://www.ufu.br/) (UFU, 2017-current), under the supervision of Professor [Marcelo de Almeida Maia at Intelligent Software Engineering Lab](http://www.isel.ufu.br/). I got my Master’s degree in Computer Science in [UFU](http://www.ufu.br/) (2017), and my bachelor's degree in Computer Engineering at the [State University of Minas Gerais (UEMG)](https://www.uemg.br/ituiutaba). I also have a specialization in Java Development at [UNITRI (2007)](https://unitri.edu.br/) and Sun Certified Java Programmer certification (SCJP 2007). My main research interests includes software repository mining for program comprehension and recommendation systems for software development.
 
