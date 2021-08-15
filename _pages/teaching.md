@@ -47,3 +47,63 @@ IFTM (2014-current)
   - 2014-second semester: System Development, Project Management.
   - 2014-first semester:
 
+UNITRI (2008-2014)
+---
+
+
+1 - [BsC. Computer Science undergraduate](https://unitri.edu.br/curso/ciencia-da-computacao/)
+- Advisor of 2 undergraduate final work students.
+- Teaching
+ - 2014-first semester: Artificial Intelligence, Distributed Systems and Concurrence Programming, Operating Systems
+ - 2013-second semester: Artificial Intelligence,Distributed Systems and Concurrence Programming, Operating Systems
+ - 2013-first semester: Distributed Systems and Concurrence Programming, Operating Systems,Theory of computation
+ - 2012-second semester: Distributed Systems and Concurrence Programming, Operating Systems,Theory of computation
+ - 2012-first semester: Distributed Systems and Concurrence Programming, Operating Systems,Theory of computation
+ - 2011-second semester: Distributed Systems and Concurrence Programming, Operating Systems,Theory of computation, Computer Architeture
+ - 2011-first semester: Distributed Systems and Concurrence Programming,Theory of computation, Computer Architeture
+ - 2010-second semester: Distributed Systems and Concurrence Programming, Operating Systems,Theory of computation
+ - 2010-first semester:Distributed Systems and Concurrence Programming, Operating Systems,Theory of computation
+ - 2009-second semester:Distributed Systems and Concurrence Programming, Operating Systems,Theory of computation
+ - 2009-first semester: Distributed Systems and Concurrence Programming
+
+2 - BsC. Information Systems undergraduate
+- Advisor of 2 undergraduate final work students.
+- Teaching
+  - 2012-first semester: Software Engineering
+  - 2010-second semester: Supervised internship 
+  - 2010-first semester: Programming Languages
+
+3 - BsC. Civil Engineering undergraduate
+- Teaching
+  - 2009-second semester: Operational Research II
+
+4 - BsC. Psychology undergraduate
+- Teaching
+  - 2009-second semester: Statistics
+
+5 - Computer Nets technology undergraduate
+- Teaching
+  - 2011-second semester: Distributed Systems
+  - 2011-first semester: Distributed Systems
+  - 2010-second semester: Supervised internship 
+  - 2010-first semester: Distributed Systems
+  
+6 - Java Development specialization
+- Advisor of 15 specialization final work students.
+- Teaching
+  - 2014-first semester: UML & Design Patterns
+  - 2014-second semester: Graphical Tools and Reports
+  - 2014-first semester: UML & Design Patterns
+  - 2013-second semester: Graphical Tools and Reports
+  - 2013-first semester: Graphical Interface Programming, JDBC & JPA Persistence
+  - 2012-first semester: UML & Design Patterns
+  - 2011-second semester: Graphical Tools and Reports
+  - 2011-first semester: UML & Design Patterns
+  - 2010-second semester: Graphical Tools and Reports
+  - 2009-first semester: UML & Design Patterns
+  - 2008-second semester: Graphical Tools and Reports
+  
+7 - Business Management specialization
+- Teaching
+  - 2010-second semester: Information Technology
+
