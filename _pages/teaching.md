@@ -11,6 +11,7 @@ IFTM (2014-current)
 1 - [Internet Systems Technology undergraduate](https://iftm.edu.br/uberlandiacentro/cursos/graduacao-presencial/sistemas-para-internet/)
 
 - Coordinator from 2015-August to February-2018
+- Advisor of 27 undergraduate final work students
 - Teaching
   - 2019-second semester: Software Engineering 2
   - 2019-first semester: Project and Software Development 2
@@ -34,6 +35,7 @@ IFTM (2014-current)
 3 - [System Analysis and Development Applied to Business Management specialization](https://iftm.edu.br/uberlandiacentro/cursos/posgraduacao-lato-presencial/analise-e-desenvolvimento-de-sistemas-aplicados-a-gestao-empresarial/)
 
 - Coordinator from 2018-February to 2019-October
+- Advisor of 13 specialization final work students.
 - Teaching
   - 2019-first semester: Development Systems Architeture, Object Oriented Programming Practices, Control Version Systems, Integrator Project.
   - 2018-second semester: Service Oriented Architetures
