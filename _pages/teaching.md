@@ -47,6 +47,12 @@ IFTM (2014-current)
   - 2014-second semester: System Development, Project Management.
   - 2014-first semester:
 
+4 - Head of I,II,III and IV IFTM Programming Contest
+
+<p align="center">
+  <img src="https://carloseduardoxp.github.io/files/maratona.png?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
 UNITRI (2008-2014)
 ---
 
