@@ -11,7 +11,7 @@ IFTM (2014-current)
 1 - [Internet Systems Technology undergraduate](https://iftm.edu.br/uberlandiacentro/cursos/graduacao-presencial/sistemas-para-internet/)
 
 - Coordinator from 2015-August to February-2018
-- Advisor of 29 undergraduate final work students
+- Advisor of 30 undergraduate final work students
 - Teaching
   - 2019-second semester: Software Engineering 2
   - 2019-first semester: Project and Software Development 2
