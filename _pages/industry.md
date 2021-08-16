@@ -9,7 +9,7 @@ author_profile: true
 ---
 - Core Business: Credit Card for Martins group customers.
 - Work: Main Activities:
-  - Improve the files import process to run faster on big files (more than 1GB size), using BCP for SQL Server and SQLoader for Oracle.
+  - Improve the diary files import process (from card processors) to run faster on big files (more than 1GB size), using BCP for SQL Server and SQLoader for Oracle.
   - Manage the Visa Cargo project, a granting credit system to truck drivers, integrating bank, card processor and freight manager. 
   - Work on adopt of neural solutions to improve the customer Behaviour Score evaluation.
   - Manage a project to import DNE dataset from Brazilian Correios.
