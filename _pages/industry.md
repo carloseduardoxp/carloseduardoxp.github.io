@@ -24,10 +24,12 @@ SWB (2007-2008)
 Digital Hall (2007)
 ---
 
-
+--- 
 
 Unique Solutions (2006)
 ---
+
+--- 
 
 [Landix Systems](https://www.landix.com.br/) (2006)
 ---
