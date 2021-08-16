@@ -53,7 +53,7 @@ IFTM (2014-current)
 
 --- 
 
-4 - Head of I,II,III and IV IFTM Programming Contest
+4 - Head of I (2015),II (2016),III (2017) and IV (2018) IFTM Programming Contest
 
 <p align="center">
   <img src="https://carloseduardoxp.github.io/images/maratona.png?raw=true" alt="Photo" style="width: 450px;"/> 
