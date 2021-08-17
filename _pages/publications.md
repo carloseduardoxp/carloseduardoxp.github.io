@@ -23,6 +23,8 @@ Rodrigo Fernandes Gomes da Silva, Chanchal K. Roy, Mohammad MasudurRahman, Kevin
 Empirical Software Engineering (EMSE), 2020. [DOI](https://doi.org/10.1007/s10664-020-09863-2)
 
 
+---
+
 Peer Reviewed Conference Papers
 ---
 
@@ -31,6 +33,9 @@ Peer Reviewed Conference Papers
 DANTAS, C. E. C.; MAIA, M. A
 
 International Conference on Computer Science and Software Engineering (CASCON), 2017. [DOI](https://dl.acm.org/doi/10.5555/3172795.3172813)
+
+
+---
 
 Peer Reviewed Workshop Papers
 ---
@@ -48,6 +53,9 @@ DANTAS, C. E. C.; MAIA, M. A
 DANTAS, C. E. C.; MAIA, M. A
 
 4th Workshop on Software Visualization, Evolution and Maintenance (VEM), 2016. 
+
+
+---
 
 Industry Periodic Articles
 ---
