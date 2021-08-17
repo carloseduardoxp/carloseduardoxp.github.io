@@ -37,6 +37,8 @@ Sun Microsystems
 Specialization in Java Development (2006-2007)
 ---
 
+--- 
+
 UNITRI
 
 - Monograph topic: [Using Floggy framework to data persistence (In Portuguese)](https://carloseduardoxp.github.io/files/specialization-finalwork.pdf).
