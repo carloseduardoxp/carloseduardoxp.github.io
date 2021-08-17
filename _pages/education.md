@@ -33,11 +33,10 @@ Sun Certified Java Programmer (2007)
 Sun Microsystems
 - Global Certification.
 
+---
 
 Specialization in Java Development (2006-2007)
 ---
-
---- 
 
 UNITRI
 
