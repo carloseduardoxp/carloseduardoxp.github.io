@@ -40,11 +40,11 @@ International Conference on Computer Science and Software Engineering (CASCON), 
 Peer Reviewed Workshop Papers
 ---
 
-Readability and Understandability Scores for Snippet Assessment: an Exploratory Study
+[Readability and Understandability Scores for Snippet Assessment: an Exploratory Study](https://arxiv.org/pdf/2108.09181.pdf)
 
 DANTAS, C. E. C.; MAIA, M. A
 
-[Accepted] 9th Workshop on Software Visualization, Evolution and Maintenance (VEM), 2021. 
+[Accepted] 9th Workshop on Software Visualization, Evolution and Maintenance (VEM), 2021. [DOI](https://zenodo.org/record/5224346#.YSOP7DrQ9H4)
 
 ---
 
