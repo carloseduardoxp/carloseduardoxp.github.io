@@ -40,7 +40,7 @@ SWB (2007-2008)
 
 
 - Core Business: Software Outsourcing for Algar Telecom (telecommunications operator)
-- Work: Mantain the SGP system, correcting bugs and perform new customizations. SGP is a online mobile recharge system, with many partners as banks and supermarkets. I also develop a Java systems from scratch for Algar Telecom
+- Work: Maintain the SGP system, correcting bugs and perform new customizations. SGP is a online mobile recharge system using ISO 8583, with many partners as banks and supermarkets. I also develop a Java systems (Status Report and Access Control) from scratch for Algar Telecom
 - Main Technologies: Java, Java EE (JSF, JPA), Oracle, Web Services SOAP. 
 
 --- 
@@ -51,7 +51,7 @@ Digital Hall (2007)
 
 - Core Business: Software Outsourcing for Sysmap and Telemig/Vivo (telecommunications operator)
 - Work: Convert the old Telemig/Vivo CRM written in Vantive to Java using the Sunlight framework. I also worked as a backend developer on a new platform called Orkin.
-- Main Technologies: Java, Hibernate, Oracle. 
+- Main Technologies: Java, Spring Framework, Hibernate, Oracle. 
 
  
 --- 
@@ -60,7 +60,7 @@ Unique Solutions (2006)
 ---
 
 - Core Business: Software Outsourcing for ACS (Algar Call Center)
-- Work: Develop and mantain ACS Softwares. For example, new clients demmands new datasets to evaluate, adapt and handle import on database, and new customized Toolbar (Software used by colaborators to make calls to customers).
+- Work: Develop and maintain ACS Softwares. For example, new clients demmands new datasets to evaluate, adapt and handle import on database, and new customized Toolbar (Software used by colaborators to make calls to customers).
 - Main Technologies: Delphi, Visual Basic, ASP, Reporting Services, Sql Server.
 
 --- 
@@ -69,5 +69,5 @@ Unique Solutions (2006)
 ---
 
 - Core Business: Sales Force Automation System using Palm and PocketPC. More than 100 customers.
-- Work: Middleware developer. Middleware is a software that sends and receives data to Palm and PocketPC. This software integrates with the ERP system of each client.
+- Work: Middleware developer. Middleware is a software that sends and receives data (sales, products, prices, discounts, places) to PDA's software running on Palm and PocketPC. This software integrates data with the ERP system of each client.
 - Main Technologies: Delphi, Oracle, Sql Server, Firebase.
