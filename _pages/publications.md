@@ -44,7 +44,7 @@ Readability and Understandability of Snippets Recommended by General-purpose Web
 
 DANTAS, C. E. C.; MAIA, M. A
 
-[Accepted] 1sr International Workshop on Automated Support to Improve Code Readability (AeSIR), 2021. 
+[Accepted] 1st International Workshop on Automated Support to Improve Code Readability (AeSIR), 2021. 
 
 
 ---
