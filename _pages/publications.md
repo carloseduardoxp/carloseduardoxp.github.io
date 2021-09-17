@@ -40,6 +40,13 @@ International Conference on Computer Science and Software Engineering (CASCON), 
 Peer Reviewed Workshop Papers
 ---
 
+Readability and Understandability of Snippets Recommended by General-purpose Web Search Engines: a Comparative Study
+
+DANTAS, C. E. C.; MAIA, M. A
+
+[Accepted] 1sr International Workshop on Automated Support to Improve Code Readability (AeSIR), 2021. 
+
+
 [Readability and Understandability Scores for Snippet Assessment: an Exploratory Study](https://arxiv.org/pdf/2108.09181.pdf)
 
 DANTAS, C. E. C.; MAIA, M. A
