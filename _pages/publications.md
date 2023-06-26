@@ -26,6 +26,15 @@ Empirical Software Engineering (EMSE), 2020. [DOI](https://doi.org/10.1007/s1066
 ---
 
 Peer Reviewed Conference Papers
+
+(accepted) How do Developers Improve Code Readability? An Empirical Study of Pull Requests
+
+
+DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A
+
+International Conference on Software Maintanance and Evolution (ICSME), 2023. 
+
+
 ---
 
 [On the Actual Use of Inheritance and Interface in Java Projects: Evolution and Implications](http://lascam.facom.ufu.br/cms/userfiles/downloads/2017/CASCON2017-Inheritance-X-Interface.pdf)
