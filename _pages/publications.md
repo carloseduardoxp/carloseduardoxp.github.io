@@ -26,6 +26,7 @@ Empirical Software Engineering (EMSE), 2020. [DOI](https://doi.org/10.1007/s1066
 ---
 
 Peer Reviewed Conference Papers
+---
 
 (accepted) How do Developers Improve Code Readability? An Empirical Study of Pull Requests
 
