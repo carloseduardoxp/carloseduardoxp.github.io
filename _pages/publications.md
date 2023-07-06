@@ -74,7 +74,7 @@ DANTAS, C. E. C.; MAIA, M. A
 
 DANTAS, C. E. C.; MAIA, M. A
 
-9th Workshop on Software Visualization, Evolution and Maintenance (VEM), 2021. [DOI](https://zenodo.org/record/5224346#.YSOP7DrQ9H4)
+9th Workshop on Software Visualization, Evolution and Maintenance (VEM), 2021. [DOI](https://doi.org/10.5753/vem.2021.17217)
 
 ---
 
