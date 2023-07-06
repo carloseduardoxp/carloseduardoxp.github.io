@@ -38,6 +38,16 @@ International Conference on Software Maintanance and Evolution (ICSME), 2023.
 
 ---
 
+(accepted) Assessing the Readability of ChatGPT Code Snippet Recommendations: A Comparative Study
+
+
+DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A
+
+XXXVII Simpósio Brasileiro de Engenharia de Software (SBES), 2023. 
+
+
+---
+
 [On the Actual Use of Inheritance and Interface in Java Projects: Evolution and Implications](http://lascam.facom.ufu.br/cms/userfiles/downloads/2017/CASCON2017-Inheritance-X-Interface.pdf)
 
 DANTAS, C. E. C.; MAIA, M. A
