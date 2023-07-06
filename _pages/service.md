@@ -12,5 +12,5 @@ Article co-reviewer
 
 Organization
 
-- Member volunteer of CBSOFT 2022 organization (UFU 2023).
+- Member volunteer of CBSOFT 2022 organization (UFU 2022).
 - Publicity Chair of VEM 2022(https://vemworkshop.github.io/vem2022/organization.html).
