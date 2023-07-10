@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-IFTM (2014-current)
+[IFTM](https://iftm.edu.br/) (2014-current)
 ---
 
-1 - [Internet Systems Technology undergraduate](https://iftm.edu.br/uberlandiacentro/cursos/graduacao-presencial/sistemas-para-internet/)
+1 - [Internet Systems Technology undergraduate](https://iftm.edu.br/cursos/uberlandiacentro/tecnologo/sistemas-para-internet/)
 
 - Coordinator from 2015-August to February-2018
 - Advisor of 31 undergraduate final work students
@@ -27,7 +27,7 @@ IFTM (2014-current)
 
 --- 
 
-2 - [Computer Licenciation undergraduate](https://iftm.edu.br/uberlandiacentro/cursos/graduacao-presencial/sistemas-para-internet/)
+2 - [Computer Licenciation undergraduate](https://iftm.edu.br/cursos/uberlandiacentro/licenciatura/computacao/)
 
 - Teaching
   - 2016-first semester: Operating Systems.
@@ -36,7 +36,7 @@ IFTM (2014-current)
 
 --- 
 
-3 - [System Analysis and Development Applied to Business Management specialization](https://iftm.edu.br/uberlandiacentro/cursos/posgraduacao-lato-presencial/analise-e-desenvolvimento-de-sistemas-aplicados-a-gestao-empresarial/)
+3 - [System Analysis and Development Applied to Business Management specialization](https://iftm.edu.br/cursos/uberlandiacentro/especializacao/analise-e-desenvolvimento-de-sistemas-aplicados-a-gestao-empresarial/)
 
 - Coordinator from 2018-February to 2019-October
 - Advisor of 13 specialization final work students.
@@ -59,7 +59,7 @@ IFTM (2014-current)
   <img src="https://carloseduardoxp.github.io/images/maratona.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-UNITRI (2008-2014)
+[UNITRI](https://unitri.edu.br) (2008-2014)
 ---
 
 
