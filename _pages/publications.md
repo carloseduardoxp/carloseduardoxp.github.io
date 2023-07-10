@@ -64,7 +64,7 @@ Peer Reviewed Workshop Papers
 
 DANTAS, C. E. C.; MAIA, M. A
 
-1st International Workshop on Automated Support to Improve Code Readability (AeSIR), 2021. 
+1st International Workshop on Automated Support to Improve Code Readability (AeSIR), 2021. [Site](https://conf.researchr.org/details/ase-2021/ase-2021--workshop--aesir-2021/8/Readability-and-Understandability-of-Snippets-Recommended-by-General-purpose-Web-Sear)
 
 
 ---
