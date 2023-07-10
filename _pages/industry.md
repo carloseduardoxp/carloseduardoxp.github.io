@@ -7,52 +7,54 @@ author_profile: true
 
 [Tricard](https://www.tricard.com.br/) (2012-2014)
 ---
-- Core Business: Credit Card for Martins group customers.
-- Work: Main Activities:
-  - Improve the diary files import process (from card processors) to run faster on big files (more than 1GB size), using BCP for SQL Server and SQLoader for Oracle.
-  - Manage the Visa Cargo project, a granting credit system to truck drivers, integrating bank, card processor and freight manager. 
-  - Work on adopt of neural solutions to improve the customer Behaviour Score evaluation.
-  - Manage a project to import DNE dataset from Brazilian Correios.
-  - Manage the Tangiveis Management project.
+- Core Business: Credit Card Services for Martins group customers.
+- Main Responsibilities:
+  - Optimizing the import process for daily files (from card processors) to improve performance on large files (over 1GB in size). Utilizing BCP for SQL Server and SQLoader for Oracle.
+  - Technical overseeing the Visa Cargo project, which involves implementing a credit system for truck drivers that integrates the bank, card processor, and freight manager.
+  - Exploring the adoption of neural solutions to enhance the evaluation of customer Behavior Scores.
+  - Managing a project to import the DNE dataset from Brazilian Correios.
+  - Leading the Tangiveis Management project.
 
-- Main Technologies: VB.net, SQL Server, Web Services SOAP, Oracle. 
-
+- Key Technologies: VB.net, SQL Server, Web Services SOAP, Oracle. 
 
 --- 
 
 [Peixoto](https://www.peixoto.com.br/) (2008-2012)
 ---
-- Core Business: Wholesale and industry, selling more than 10.000 products to 120.000 registered customers.
-- Work: Main Activities:
-   - Convert the entire ERP from JBoss 4.0.5 to JBoss 4.2.3, adapting all legacy Systems from ERP using JSF 1.1 with Easy Faces (proprietary framework) to run in this new  Application Server supporting JSF 1.2 with Rich Faces framework on new projects.
-   - Develop 3-year new tasks for the Mobile Sales Force writen in Java ME. The main task was to create a new module from scratch called "Tatic Action", with dynamic discounts. This task also demmanded a web system to create the "Tatic Actions", and heavy changes on Precification System. 
-   - Port Mobile Sales force from JavaME (using A1200 Motorola smartphone) to run on Android.  
-   - Creation of the sales management system, where managers tracked sales and actions of the RCAs (vendors) in their respective regions. 
-   - Worked on a port from Oracle 8i to Oracle 10g, testing and making corrections in all systems from ERP.
-- Main Technologies: Java, Java SE (swing), Java EE (JSF, EJB, JPA, Quartz, JNDI), Oracle, Java ME, Android.
+- Core Business: Wholesale and industrial operations, providing a wide range of over 10,000 products to a customer base of 120,000 registered clients.
+- Main Responsibilities:
+   - Migrating the entire ERP system from JBoss 4.0.5 to JBoss 4.2.3, ensuring seamless adaptation of all legacy systems within the ERP. This involved transitioning from JSF 1.1 with Easy Faces (proprietary framework) to JSF 1.2 with Rich Faces framework for new projects.
+   - Developing new tasks for the Mobile Sales Force over a three-year period, written in Java ME. The primary task involved creating a new module called "Tatic Action" from scratch, which included dynamic discount capabilities. Additionally, a web-based system was created to manage these "Tatic Actions", and significant changes were made to the Pricing System.
+   - Porting the Mobile Sales Force application from Java ME (using A1200 Motorola smartphone) to the Android platform.
+   - Creating a sales management system for managers to track sales and monitor the actions of the RCAs (vendors) in their respective regions.
+   - Assisting in the porting process from Oracle 8i to Oracle 10g, including testing and making necessary corrections across all systems within the ERP.
+- Key Technologies: Java, Java SE (swing), Java EE (JSF, EJB, JPA, Quartz, JNDI), Oracle, Java ME, Android.
 
 
 --- 
-
 
 SWB (2007-2008)
 ---
 
 
-- Core Business: Software Outsourcing for Algar Telecom (telecommunications operator)
-- Work: Maintain the SGP system, correcting bugs and perform new customizations. SGP is a online mobile recharge system using ISO 8583, with many partners as banks and supermarkets. I also develop a Java systems (Status Report and Access Control) from scratch for Algar Telecom
-- Main Technologies: Java, Java EE (JSF, JPA), Oracle, Web Services SOAP. 
+- Core Business: Software Outsourcing for Algar Telecom, a telecommunications operator.
+- Main Responsibilities:
+  -  Maintaining the SGP system by identifying and fixing bugs, as well as implementing new customizations. The SGP system is an online mobile recharge platform that utilizes ISO 8583, with multiple partners such as banks and supermarkets.
+  -  Developing two Java systems, namely Status Report and Access Control, from scratch for Algar Telecom.
+- Key Technologies: Java, Java EE (JSF, JPA), Oracle, Web Services SOAP. 
 
 --- 
+
 
 Digital Hall (2007)
 ---
 
 
-- Core Business: Software Outsourcing for Sysmap and Telemig/Vivo (telecommunications operator)
-- Work: Convert the old Telemig/Vivo CRM written in Vantive to Java using the Sunlight framework. I also worked as a backend developer on a new platform called Orkin.
-- Main Technologies: Java, Spring Framework, Hibernate, Oracle. 
-
+- Core Business: Software Outsourcing for Sysmap and Telemig/Vivo, telecommunications operators.
+- Main Responsibilities:
+  - Converting the legacy Telemig/Vivo CRM system, originally written in Vantive, to Java using the Sunlight framework. This involved migrating the functionality and ensuring a smooth transition to the new platform.
+  - Working as a backend developer on the development of a new platform called Orkin.
+- Key Technologies: Java, Spring Framework, Hibernate, Oracle. 
  
 --- 
 
@@ -60,14 +62,16 @@ Unique Solutions (2006)
 ---
 
 - Core Business: Software Outsourcing for ACS (Algar Call Center)
-- Work: Develop and maintain ACS Softwares. For example, new clients demmands new datasets to evaluate, adapt and handle import on database, and new customized Toolbar (Software used by colaborators to make calls to customers).
-- Main Technologies: Delphi, Visual Basic, ASP, Reporting Services, Sql Server.
+- Main Responsibilities:
+  - Developing and maintaining ACS software solutions. This includes handling new client requirements, such as evaluating and adapting new datasets for import into the database. Additionally, creating customized toolbars for employees to effectively make calls to customers.
+- Key Technologies: Delphi, Visual Basic, ASP, Reporting Services, Sql Server.
 
 --- 
 
 [Landix Systems](https://www.landix.com.br/) (2006)
 ---
 
-- Core Business: Sales Force Automation System using Palm and PocketPC. More than 100 customers.
-- Work: Middleware developer. Middleware is a software that sends and receives data (sales, products, prices, discounts, places) to PDA's software running on Palm and PocketPC. This software integrates data with the ERP system of each client.
-- Main Technologies: Delphi, Oracle, Sql Server, Firebase.
+- Core Business: Sales Force Automation System utilizing Palm and PocketPC devices, serving over 100 customers.
+- Main Responsibilities:
+  -  Middleware development for seamless data synchronization between the sales force's PDA software (running on Palm and PocketPC) and the respective client's ERP system. This involves handling various data types, including sales, products, prices, discounts, and locations.
+- Key Technologies: Delphi, Oracle, Sql Server, Firebase.
