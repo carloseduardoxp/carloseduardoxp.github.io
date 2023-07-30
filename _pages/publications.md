@@ -12,7 +12,7 @@ Journal Papers
 
 Rodrigo F. Silva, Mohammad Masudur Rahman, Carlos Eduardo Dantas, Chanchal Roy, Foutse Khomh, and Marcelo A. Maia. 
 
-Journal of Systems and Software (JSS),2021. [DOI](https://doi.org/10.1016/j.jss.2021.111063)
+Journal of Systems and Software (JSS),2021. Qualis A2 [DOI](https://doi.org/10.1016/j.jss.2021.111063)
 
 ---
 
@@ -20,7 +20,7 @@ Journal of Systems and Software (JSS),2021. [DOI](https://doi.org/10.1016/j.jss.
 
 Rodrigo Fernandes Gomes da Silva, Chanchal K. Roy, Mohammad MasudurRahman, Kevin A. Schneider, Klérisson V. R. Paixão, Carlos Eduardo de Carvalho Dantas, and Marcelo de Almeida Maia. 
 
-Empirical Software Engineering (EMSE), 2020. [DOI](https://doi.org/10.1007/s10664-020-09863-2)
+Empirical Software Engineering (EMSE), 2020. Qualis A2 [DOI](https://doi.org/10.1007/s10664-020-09863-2)
 
 
 ---
@@ -33,7 +33,7 @@ Peer Reviewed Conference Papers
 
 DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A
 
-International Conference on Software Maintanance and Evolution (ICSME), 2023. 
+International Conference on Software Maintanance and Evolution (ICSME), 2023. Qualis A2
 
 
 ---
@@ -43,7 +43,7 @@ International Conference on Software Maintanance and Evolution (ICSME), 2023.
 
 DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A
 
-XXXVII Simpósio Brasileiro de Engenharia de Software (SBES), 2023. 
+XXXVII Simpósio Brasileiro de Engenharia de Software (SBES), 2023. Qualis A3
 
 
 ---
@@ -52,7 +52,7 @@ XXXVII Simpósio Brasileiro de Engenharia de Software (SBES), 2023.
 
 DANTAS, C. E. C.; MAIA, M. A
 
-International Conference on Computer Science and Software Engineering (CASCON), 2017. [DOI](https://dl.acm.org/doi/10.5555/3172795.3172813)
+International Conference on Computer Science and Software Engineering (CASCON), 2017. Qualis B1 [DOI](https://dl.acm.org/doi/10.5555/3172795.3172813)
 
 
 ---
@@ -74,7 +74,7 @@ DANTAS, C. E. C.; MAIA, M. A
 
 DANTAS, C. E. C.; MAIA, M. A
 
-9th Workshop on Software Visualization, Evolution and Maintenance (VEM), 2021. [DOI](https://doi.org/10.5753/vem.2021.17217)
+9th Workshop on Software Visualization, Evolution and Maintenance (VEM), 2021. Qualis B4 [DOI](https://doi.org/10.5753/vem.2021.17217)
 
 ---
 
@@ -82,7 +82,7 @@ DANTAS, C. E. C.; MAIA, M. A
 
 DANTAS, C. E. C.; MAIA, M. A
 
-4th Workshop on Software Visualization, Evolution and Maintenance (VEM), 2016. 
+4th Workshop on Software Visualization, Evolution and Maintenance (VEM), 2016. Qualis B4
 
 
 ---
