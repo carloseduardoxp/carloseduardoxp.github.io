@@ -28,7 +28,7 @@ Empirical Software Engineering (EMSE), 2020. Qualis A2 [DOI](https://doi.org/10.
 Peer Reviewed Conference Papers
 ---
 
-(accepted) [How do Developers Improve Code Readability? An Empirical Study of Pull Requests](https://conf.researchr.org/details/icsme-2023/icsme-2023-papers/24/How-do-Developers-Improve-Code-Readability-An-Empirical-Study-of-Pull-Requests)
+[How do Developers Improve Code Readability? An Empirical Study of Pull Requests](https://conf.researchr.org/details/icsme-2023/icsme-2023-papers/24/How-do-Developers-Improve-Code-Readability-An-Empirical-Study-of-Pull-Requests)
 
 
 DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A
@@ -38,12 +38,12 @@ International Conference on Software Maintanance and Evolution (ICSME), 2023. Qu
 
 ---
 
-(accepted) [Assessing the Readability of ChatGPT Code Snippet Recommendations: A Comparative Study](https://cbsoft2023.ufms.br/artigos/sbes-pesquisa)
+[Assessing the Readability of ChatGPT Code Snippet Recommendations: A Comparative Study](https://dl.acm.org/doi/pdf/10.1145/3613372.3613413)
 
 
 DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A
 
-XXXVII Simpósio Brasileiro de Engenharia de Software (SBES), 2023. Qualis A3
+XXXVII Simpósio Brasileiro de Engenharia de Software (SBES), 2023. Qualis A3 [DOI](https://dl.acm.org/doi/10.1145/3613372.3613413)
 
 
 ---
