@@ -38,7 +38,7 @@ International Conference on Software Maintanance and Evolution (ICSME), 2023. Qu
 
 ---
 
-[Assessing the Readability of ChatGPT Code Snippet Recommendations: A Comparative Study](https://dl.acm.org/doi/pdf/10.1145/3613372.3613413)
+**Award Paper** [Assessing the Readability of ChatGPT Code Snippet Recommendations: A Comparative Study](https://dl.acm.org/doi/pdf/10.1145/3613372.3613413) 
 
 
 DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A
