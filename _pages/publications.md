@@ -43,7 +43,7 @@ International Conference on Software Maintanance and Evolution (ICSME), 2023. Qu
 
 DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A
 
-XXXVII Simpósio Brasileiro de Engenharia de Software (SBES), 2023. Qualis A3 [DOI](https://dl.acm.org/doi/10.1145/3613372.3613413)
+XXXVII Brazilian Symposium on Software Engineering (SBES), 2023. Qualis A3 [DOI](https://dl.acm.org/doi/10.1145/3613372.3613413)
 
 
 ---
