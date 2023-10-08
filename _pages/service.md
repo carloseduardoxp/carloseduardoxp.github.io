@@ -5,6 +5,10 @@ permalink: /service/
 author_profile: true
 ---
 
+Article reviewer
+
+- IEEE Transactions on Software Engineering (2023, 1 paper).
+
 Article co-reviewer
 
 - Empirical Software Engineering (2020, 2 papers).
@@ -12,6 +16,7 @@ Article co-reviewer
 
 Conference Organization
 
+- Member volunteer of ICSME 2023 organization (Uniandes 2023).
 - Member volunteer of CBSOFT 2022 organization (UFU 2022).
 - Publicity Chair of VEM 2022(https://vemworkshop.github.io/vem2022/organization.html).
 
