@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Ph.D. Student in Computer Science (2017-Until now)
+Ph.D. Student in Computer Science (2018-Until now)
 ---
 
 Federal University of Uberlândia (UFU)
