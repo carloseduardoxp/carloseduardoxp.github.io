@@ -13,6 +13,7 @@ author_profile: true
 - Served as Coordinator from August 2015 to February 2018.
 - Acted as an advisor for 31 undergraduate students' final projects.
 - Teaching Experience:
+  - 2023, second semester: Distributed Systems, Project MVC & Web
   - 2019,second semester: Software Engineering 2
   - 2019,first semester: Project and Software Development 2
   - 2018,second semester: Software Engineering 2
@@ -30,6 +31,7 @@ author_profile: true
 2 - [Computer Licenciation Undergraduate](https://iftm.edu.br/cursos/uberlandiacentro/licenciatura/computacao/)
 
 - Teaching Experience:
+  - 2023,second semester: Databases Fundamentals.
   - 2016,first semester: Operating Systems.
   - 2014,second semester: Advanced Databases.
   - 2014,first semester: Computer Architeture, Databases Fundamentals.
@@ -52,7 +54,12 @@ author_profile: true
 
 --- 
 
-4 - Head of I (2015),II (2016),III (2017) and IV (2018) IFTM Programming Contest
+4 - [Technical Course in Systems Development integrated with high school education](https://iftm.edu.br/cursos/uberlandiacentro/tecnico-integrado/desenvolvimento-de-sistemas/)
+
+- Teaching Experience:
+  - 2023, second semester: Systems Analysis and an PCU (Polytechnic Curricular Unit) extension course: "Level Up! Enhancing Your English Skills by Studying Gaming  Technology on YouTube."
+     
+5 - Head of I (2015),II (2016),III (2017) and IV (2018) IFTM Programming Contest
 
 <p align="center">
   <img src="https://carloseduardoxp.github.io/images/maratona.png?raw=true" alt="Photo" style="width: 450px;"/> 
