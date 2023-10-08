@@ -22,5 +22,5 @@ Conference Organization
 
 Minicourse
 
-- "Mineração de repositórios do Github para construir Sistemas  de Recomendação em Engenharia de Software" - Enacomp 2021 (https://www.enacomp.com.br/)
-- "Aprendizagem de máquina na indústria de software" - Enacomp 2020
+- (Portuguese-BR)  "Mineração de repositórios do Github para construir Sistemas  de Recomendação em Engenharia de Software" - Enacomp 2021 (https://www.enacomp.com.br/)
+- (Portuguese-BR)  "Aprendizagem de máquina na indústria de software" - Enacomp 2020
