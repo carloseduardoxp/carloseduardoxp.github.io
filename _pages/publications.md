@@ -60,6 +60,16 @@ International Conference on Computer Science and Software Engineering (CASCON), 
 Peer Reviewed Workshop Papers
 ---
 
+(accepted)[What Developers Ask to ChatGPT in GitHub Pull Requests? an Exploratory Study]
+
+SILVA, J.R.,DANTAS, C. E. C.; MAIA, M. A
+
+12th Workshop on Software Visualization, Evolution and Maintenance (VEM), 2024. Qualis B4 
+
+
+---
+
+
 [Readability and Understandability of Snippets Recommended by General-purpose Web Search Engines: a Comparative Study](https://arxiv.org/pdf/2110.07087.pdf)
 
 DANTAS, C. E. C.; MAIA, M. A
@@ -103,3 +113,16 @@ Java Magazine periodic, 2015.
 Carlos Eduardo de Carvalho Dantas and Leandro Contato Guimarães
 
 Java Magazine periodic, 2013. 
+
+---
+
+Local Periodic Articles
+---
+
+[(Portuguese-BR) Um Estudo Exploratório sobre o uso do ChatGPT em ambientes de Desenvolvimento de Software](https://iftm.edu.br/sdsgov/controlador2/load.php?src=b12a2d7acec778d71a7b38d8fc8d9cfd&tipo=noticia_anexo)
+
+Ozório Maurício da Costa and Carlos Eduardo de Carvalho Dantas 
+
+Periódico de Pesquisa e Trabalhos de Conclusão de Curso - IFTM Campus Uberlândia Centro, 2024. 
+
+---
