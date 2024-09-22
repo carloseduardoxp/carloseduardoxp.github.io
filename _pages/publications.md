@@ -60,7 +60,7 @@ International Conference on Computer Science and Software Engineering (CASCON), 
 Peer Reviewed Workshop Papers
 ---
 
-(accepted)[What Developers Ask to ChatGPT in GitHub Pull Requests? an Exploratory Study]
+(accepted)[What Developers Ask to ChatGPT in GitHub Pull Requests? an Exploratory Study](https://sol.sbc.org.br/index.php/vem/article/view/30288/30094)
 
 SILVA, J.R.,DANTAS, C. E. C.; MAIA, M. A
 
