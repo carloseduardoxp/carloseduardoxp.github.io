@@ -1,12 +1,8 @@
 ---
 layout: archive
-title: "Teaching"
+title: "🏫 Teaching Experience"
 permalink: /teaching/
 author_profile: true
----
-
-# 🏫 Teaching Experience
-
 ---
 
 ## [IFTM](https://iftm.edu.br/) (2014 - Present)
