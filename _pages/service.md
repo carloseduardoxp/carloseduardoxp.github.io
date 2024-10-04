@@ -5,26 +5,39 @@ permalink: /service/
 author_profile: true
 ---
 
-Article reviewer
+# 🔍 Article Reviewer
 
-- IEEE Transactions on Software Engineering (2023, 1 paper).
+- **IEEE Transactions on Software Engineering** (2023, 1 paper).
 
-Article co-reviewer
+---
 
-- Empirical Software Engineering (2020, 2 papers).
-- Automated Software Engineering (2023, 4 papers).
+# 🔍 Article Co-Reviewer
 
-Conference Organization
+- **Empirical Software Engineering** (2020, 2 papers).
+- **Automated Software Engineering** (2023, 4 papers).
 
-- Member volunteer of ICSME 2023 organization (Uniandes 2023).
-- Member volunteer of [CBSOFT 2022 organization](https://cbsoft2022.facom.ufu.br/organizacao.php) (UFU 2022).
-- Publicity Chair of [VEM 2022](https://vemworkshop.github.io/vem2022/organization.html).
+---
 
-Industry
+# 📚 Conference Organization
 
-- Meetings with the Sonarsource technical team to present and assist with the findings from the articles, especially ICSME 2023 paper. 
+- **Member Volunteer**, ICSME 2023 Organization (Uniandes, 2023).
+- **Member Volunteer**, [CBSOFT 2022 Organization](https://cbsoft2022.facom.ufu.br/organizacao.php) (UFU, 2022).
+- **Publicity Chair**, [VEM 2022](https://vemworkshop.github.io/vem2022/organization.html).
 
-Minicourse
+---
 
-- (Portuguese-BR)  "Mineração de repositórios do Github para construir Sistemas  de Recomendação em Engenharia de Software" - [Enacomp 2021](https://www.enacomp.com.br/)
-- (Portuguese-BR)  "Aprendizagem de máquina na indústria de software" - Enacomp 2020
+# 📚 Industry Involvement
+
+- Meetings with the **Sonarsource Technical Team** to present and discuss findings from articles, particularly from the ICSME 2023 paper.
+
+---
+
+# 📚 Minicourses
+
+- 🇧🇷 **(Portuguese-BR) "Mineração de Repositórios do Github para Construir Sistemas de Recomendação em Engenharia de Software"**  
+  [Enacomp 2021](https://www.enacomp.com.br/)
+
+- 🇧🇷 **(Portuguese-BR) "Aprendizagem de Máquina na Indústria de Software"**  
+  Enacomp 2020
+
+---
