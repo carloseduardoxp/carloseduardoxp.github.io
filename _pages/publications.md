@@ -38,7 +38,7 @@ International Conference on Software Maintanance and Evolution (ICSME), 2023. Qu
 
 ---
 
-**Award Paper** [Assessing the Readability of ChatGPT Code Snippet Recommendations: A Comparative Study](https://dl.acm.org/doi/pdf/10.1145/3613372.3613413) 
+## 🏆 Award Paper: [Assessing the Readability of ChatGPT Code Snippet Recommendations: A Comparative Study](https://dl.acm.org/doi/pdf/10.1145/3613372.3613413) 
 
 
 DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A
@@ -60,7 +60,7 @@ International Conference on Computer Science and Software Engineering (CASCON), 
 Peer Reviewed Workshop Papers
 ---
 
-(accepted)[What Developers Ask to ChatGPT in GitHub Pull Requests? an Exploratory Study](https://sol.sbc.org.br/index.php/vem/article/view/30288/30094)
+## 🏆 Award Paper: [What Developers Ask to ChatGPT in GitHub Pull Requests? an Exploratory Study](https://sol.sbc.org.br/index.php/vem/article/view/30288/30094)
 
 SILVA, J.R.,DANTAS, C. E. C.; MAIA, M. A
 
