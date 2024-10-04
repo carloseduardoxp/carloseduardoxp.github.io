@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-
-# Journal Papers
+## Journal Papers
 
 ---
 
@@ -23,7 +21,7 @@ Empirical Software Engineering (EMSE), 2020. Qualis A2. [DOI](https://doi.org/10
 
 ---
 
-# Peer Reviewed Conference Papers
+## Peer Reviewed Conference Papers
 
 ---
 
@@ -45,7 +43,7 @@ International Conference on Computer Science and Software Engineering (CASCON), 
 
 ---
 
-# Peer Reviewed Workshop Papers
+## Peer Reviewed Workshop Papers
 
 ---
 
@@ -73,7 +71,7 @@ International Conference on Computer Science and Software Engineering (CASCON), 
 
 ---
 
-# Industry Periodic Articles
+## Industry Periodic Articles
 
 ---
 
@@ -89,7 +87,7 @@ Java Magazine periodic, 2013.
 
 ---
 
-# Local Periodic Articles
+## Local Periodic Articles
 
 ---
 
