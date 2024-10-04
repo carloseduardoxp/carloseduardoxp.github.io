@@ -1,12 +1,8 @@
 ---
 layout: archive
-title: "Industry Experience"
+title: "💼 Industry Experience"
 permalink: /industry/
 author_profile: true
----
-
-# 💼 Industry Experience
-
 ---
 
 ## [Tricard](https://www.tricard.com.br/) (2012-2014)
