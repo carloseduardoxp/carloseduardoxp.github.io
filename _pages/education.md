@@ -1,14 +1,10 @@
 ---
 layout: archive
-title: "Education"
+title: "🎓 Education"
 permalink: /education/
 author_profile: true
 redirect_from:
   - /resume
----
-
-# 🎓 Education
-
 ---
 
 ## Ph.D. in Computer Science (2018 - Present)
