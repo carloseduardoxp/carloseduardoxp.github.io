@@ -13,9 +13,9 @@ author_profile: true
 - **Advisor**: 33 undergraduate students' final projects.
 - **Courses Taught**:
   - 2025 (1st semester): Monolithic Back-End Project with ORM, Database Advanced
-  - 2024 (2nd semester): Distributed Systems, Project MVC & Web
+  - 2024 (2nd semester): Distributed Systems, Web System Project with MVC and SQL
   - 2024 (1st semester): Objected Oriented Paradigm 2, Internet Systems Fundamentals
-  - 2023 (2nd semester): Distributed Systems, Project MVC & Web
+  - 2023 (2nd semester): Distributed Systems, Web System Project with MVC and SQL
   - 2019 (2nd semester): Software Engineering 2
   - 2019 (1st semester): Project and Software Development 2
   - 2018 (2nd semester): Software Engineering 2
