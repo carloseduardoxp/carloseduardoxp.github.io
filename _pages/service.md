@@ -47,3 +47,15 @@ author_profile: true
   Encontro de Práticas Docentes (EPD) 2016
 
 ---
+
+## Talks
+
+- 🇧🇷 **(Portuguese-BR) "Do Google à IA Generativa: a nova era do auxílio no desenvolvimento de software para estudantes de computação"**  
+  [XI Encontro de Práticas Docentes - EPD 2024](https://iftm.edu.br/eventos/epd2024/)
+
+- 🇧🇷 **(Portuguese-BR) "Engenharia Inteligente de Software: uma nova perspectiva sobre a área"**  
+  [Enacomp 2020](https://www.enacomp.com.br/)
+
+- 🇧🇷 **(Portuguese-BR) "Utilização de Modelos de Aprendizagem Profunda para Recomendar Tarefas de Programação"**  
+  Unitri 2020
+---
