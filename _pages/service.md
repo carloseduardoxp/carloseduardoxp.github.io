@@ -34,6 +34,9 @@ author_profile: true
 
 ## Minicourses
 
+- 🇧🇷 **(Portuguese-BR) "Do GitHub para sua Pesquisa: extraindo dados usando a API GraphQL"**  
+  [XI Encontro de Práticas Docentes - EPD 2024](https://iftm.edu.br/eventos/epd2024/)
+
 - 🇧🇷 **(Portuguese-BR) "Mineração de Repositórios do Github para Construir Sistemas de Recomendação em Engenharia de Software"**  
   [Enacomp 2021](https://www.enacomp.com.br/)
 
