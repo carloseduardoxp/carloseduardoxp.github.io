@@ -12,7 +12,7 @@ author_profile: true
 - **Coordinator**: August 2015 to February 2018.
 - **Advisor**: 33 undergraduate students' final projects.
 - **Courses Taught**:
-  - 2025 (1st semester): Monolithic Back-End Project with ORM, Advanced Databases
+  - 2025 (1st semester): Monolithic Back-End Project with ORM, Database Advanced
   - 2024 (2nd semester): Distributed Systems, Project MVC & Web
   - 2024 (1st semester): Objected Oriented Paradigm 2, Internet Systems Fundamentals
   - 2023 (2nd semester): Distributed Systems, Project MVC & Web
