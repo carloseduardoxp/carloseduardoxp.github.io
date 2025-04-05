@@ -9,6 +9,12 @@ author_profile: true
 
 ---
 
+### [The Influence of Search Engine Ranking Quality on the Performance of Developers]
+*ROCHA, A. M, DANTAS, C. E. C., MAIA, M. A*  
+Journal of Software Engineering Research and Development (JSERD), 2025. Qualis A4.
+
+---
+
 ### [Improved retrieval of programming solutions with code examples using a multi-featured score](https://arxiv.org/pdf/2108.02702.pdf)
 *Rodrigo Fernandes Gomes da Silva, Mohammad Masudur Rahman, Carlos Eduardo Dantas, Chanchal Roy, Foutse Khomh, and Marcelo de Almeida Maia.*  
 Journal of Systems and Software (JSS), 2021. Qualis A2. [DOI](https://doi.org/10.1016/j.jss.2021.111063)
