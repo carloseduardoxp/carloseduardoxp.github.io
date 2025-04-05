@@ -69,7 +69,7 @@ author_profile: true
 
 ### 5 - IFTM Programming Contest
 
-- **Head** of IFTM Programming Contest (I, II, III, and IV editions): 2015, 2016, 2017, 2018
+- **Head** of IFTM Programming Contest (I, II, III, IV and V editions): 2015, 2016, 2017, 2018, 2024
 
 <p align="center">
   <img src="https://carloseduardoxp.github.io/images/maratona.png?raw=true" alt="Photo" style="width: 450px;"/> 
