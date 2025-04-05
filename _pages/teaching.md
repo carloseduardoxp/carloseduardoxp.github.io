@@ -12,6 +12,7 @@ author_profile: true
 - **Coordinator**: August 2015 to February 2018.
 - **Advisor**: 33 undergraduate students' final projects.
 - **Courses Taught**:
+  - 2025 (1st semester): Monolithic Back-End Project with ORM, Advanced Databases
   - 2024 (2nd semester): Distributed Systems, Project MVC & Web
   - 2024 (1st semester): Objected Oriented Paradigm 2, Internet Systems Fundamentals
   - 2023 (2nd semester): Distributed Systems, Project MVC & Web
@@ -60,6 +61,7 @@ author_profile: true
 ### 4 - [Technical Course in Systems Development Integrated with High School Education](https://iftm.edu.br/cursos/uberlandiacentro/tecnico-integrado/desenvolvimento-de-sistemas/)
 
 - **Courses Taught**:
+  - 2025 (1st and 2nd semester): Systems Analysis, Introduction to Computing and Web Design Fundamentals II
   - 2024 (1st and 2nd semester): Systems Analysis
   - 2023 (2nd semester): Systems Analysis, PCU extension course "Level Up! Enhancing Your English Skills by Studying Gaming Technology on YouTube."
 
