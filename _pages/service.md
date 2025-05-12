@@ -50,6 +50,9 @@ author_profile: true
 
 ## Talks
 
+- 🇧🇷 **(Portuguese-BR) "Aprimoramento da Legibilidade de Código: um Estudo sobre Perspectivas Humana e Automatizada"**  
+  I TechTalks do PPGCO/FACOM - UFU - 2025
+
 - 🇧🇷 **(Portuguese-BR) "Do Google à IA Generativa: a nova era do auxílio no desenvolvimento de software para estudantes de computação"**  
   [XI Encontro de Práticas Docentes - EPD 2024](https://iftm.edu.br/eventos/epd2024/)
 
