@@ -7,10 +7,11 @@ redirect_from:
   - /resume
 ---
 
-## Ph.D. in Computer Science (2018 - Present)
+## Ph.D. in Computer Science (2018 - 2025)
 
 **Federal University of Uberlândia (UFU)**  
-Ph.D. Student at the Department of Computer Science, Computing Faculty (FACOM), under the supervision of Prof. Dr. Marcelo de Almeida Maia.
+- **Thesis**: [Code Readability Assessment and Improvement: Human and Automated Perspectives]().
+- **Advisor**: Prof. Dr. Marcelo de Almeida Maia.
 
 ---
 
