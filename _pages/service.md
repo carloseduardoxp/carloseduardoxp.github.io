@@ -27,6 +27,12 @@ author_profile: true
 
 ---
 
+## PC Member
+
+- [Artifacts Festival at CBSOFT 2025](https://cbsoft.sbc.org.br/2025/artefatos/)
+
+---
+
 ## Industry Involvement
 
 - Meetings with the **Sonarsource Technical Team** to present and discuss findings from articles, particularly from the ICSME 2023 paper.
