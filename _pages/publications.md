@@ -35,13 +35,13 @@ Empirical Software Engineering (EMSE), 2020. Qualis A2. [DOI](https://doi.org/10
 
 ### [How do Developers Improve Code Readability? An Empirical Study of Pull Requests](https://conf.researchr.org/details/icsme-2023/icsme-2023-papers/24/How-do-Developers-Improve-Code-Readability-An-Empirical-Study-of-Pull-Requests)
 *DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A*  
-International Conference on Software Maintenance and Evolution (ICSME), 2023. Qualis A2
+International Conference on Software Maintenance and Evolution ([ICSME](https://conf.researchr.org/home/icsme-2023)), 2023. Qualis A2
 
 ---
 
 ### 🏆 **Award Paper**: [Assessing the Readability of ChatGPT Code Snippet Recommendations: A Comparative Study](https://dl.acm.org/doi/pdf/10.1145/3613372.3613413)
 *DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A*  
-XXXVII Brazilian Symposium on Software Engineering (SBES), 2023. Qualis A3 [DOI](https://dl.acm.org/doi/10.1145/3613372.3613413)
+XXXVII Brazilian Symposium on Software Engineering ([SBES](https://cbsoft2023.ufms.br/en-US)), 2023. Qualis A3 [DOI](https://dl.acm.org/doi/10.1145/3613372.3613413)
 
 ---
 
@@ -55,39 +55,44 @@ International Conference on Computer Science and Software Engineering (CASCON), 
 
 ### (accepted) How Close Is ChatGPT to Developer Judgment? A Study on Stack Overflow Java Questions
 *REIS, F.; DANTAS, C. E. C.; MAIA, M. A*  
-[CTIC-ES - Undergraduate Research Competition - Part of the Brazilian Symposium on Software Engineering (SBES) 2025](https://cbsoft.sbc.org.br/2025/sbes/ctic/?lang=en)
-
+CTIC-ES - Undergraduate Research Competition - Part of the Brazilian Symposium on Software Engineering ([SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/ctic/?lang=en))
 ## Peer Reviewed Workshop Papers
 
 ---
 
 ### (accepted) How Readable Is LLM-Generated Code Snippets? A Comparison of ChatGPT, DeepSeek, and Gemini
-*FERNANDES, J.R., DANTAS, C. E. C.; MAIA, M. A*  
-13th Workshop on Software Visualization, Evolution and Maintenance (VEM), 2025. Qualis B4
+*SILVA, J.R., DANTAS, C. E. C.; MAIA, M. A*  
+4th Workshop on Brazilian Workshop on Intelligent Software Engineering ([ISE'25](https://www.virtus.ufcg.edu.br/iseworkshop/?lang=en)), 2025. 
+
+---
+
+### (accepted) How Readable Is LLM-Generated Code Snippets? A Comparison of ChatGPT, DeepSeek, and Gemini
+*FERNANDES, G., DANTAS, C. E. C.; MAIA, M. A*  
+13th Workshop on Software Visualization, Evolution and Maintenance ([VEM'25](https://vemworkshop.github.io/vem2025/?lang=en)), 2025. Qualis B4
 
 ---
 
 ### 🏆 **Award Paper**: [What Developers Ask to ChatGPT in GitHub Pull Requests? an Exploratory Study](https://sol.sbc.org.br/index.php/vem/article/view/30288/30094)
 *SILVA, J.R., DANTAS, C. E. C.; MAIA, M. A*  
-12th Workshop on Software Visualization, Evolution and Maintenance (VEM), 2024. Qualis B4
+12th Workshop on Software Visualization, Evolution and Maintenance ([VEM'24](https://vemworkshop.github.io/vem2024/))], 2024. Qualis B4
 
 ---
 
 ### [Readability and Understandability of Snippets Recommended by General-purpose Web Search Engines: a Comparative Study](https://arxiv.org/pdf/2110.07087.pdf)
 *DANTAS, C. E. C.; MAIA, M. A*  
-1st International Workshop on Automated Support to Improve Code Readability (AeSIR), 2021. [Site](https://conf.researchr.org/details/ase-2021/ase-2021--workshop--aesir-2021/8/Readability-and-Understandability-of-Snippets-Recommended-by-General-purpose-Web-Sear)
+1st International Workshop on Automated Support to Improve Code Readability ([AeSIR](https://conf.researchr.org/details/ase-2021/ase-2021--workshop--aesir-2021/8/Readability-and-Understandability-of-Snippets-Recommended-by-General-purpose-Web-Sear)), 2021. 
 
 ---
 
 ### [Readability and Understandability Scores for Snippet Assessment: an Exploratory Study](https://arxiv.org/pdf/2108.09181.pdf)
 *DANTAS, C. E. C.; MAIA, M. A*  
-9th Workshop on Software Visualization, Evolution and Maintenance (VEM), 2021. Qualis B4 [DOI](https://doi.org/10.5753/vem.2021.17217)
+9th Workshop on Software Visualization, Evolution and Maintenance ([VEM'21](https://vemworkshop.github.io/vem2021/index.html)), 2021. Qualis B4 [DOI](https://doi.org/10.5753/vem.2021.17217)
 
 ---
 
 ### 🇧🇷 **[(Portuguese-BR) Uma análise da associação de co-ocorrência de anomalias de código com métricas estruturais](https://vem2016.ufba.br/artigos/Session2_VEM_2016_paper_27.pdf)**
 *DANTAS, C. E. C.; MAIA, M. A*  
-4th Workshop on Software Visualization, Evolution and Maintenance (VEM), 2016. Qualis B4
+4th Workshop on Software Visualization, Evolution and Maintenance ([VEM'16](https://vem2016.ufba.br/)), 2016. Qualis B4
 
 ---
 
