@@ -53,9 +53,12 @@ International Conference on Computer Science and Software Engineering (CASCON), 
 
 ## Competition
 
+---
+
 ### (accepted) How Close Is ChatGPT to Developer Judgment? A Study on Stack Overflow Java Questions
 *REIS, F.; DANTAS, C. E. C.; MAIA, M. A*  
 CTIC-ES - Undergraduate Research Competition - Part of the Brazilian Symposium on Software Engineering ([SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/ctic/?lang=en))
+
 ## Peer Reviewed Workshop Papers
 
 ---
