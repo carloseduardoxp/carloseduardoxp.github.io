@@ -63,7 +63,7 @@ CTIC-ES - Undergraduate Research Competition - Part of the Brazilian Symposium o
 
 ---
 
-### (accepted) How Readable Is LLM-Generated Code Snippets? A Comparison of ChatGPT, DeepSeek, and Gemini
+### (accepted) Do LLMs Suggest Consistent Identifiers? An Empirical Study on GitHub Pull Requests
 *SILVA, J.R., DANTAS, C. E. C.; MAIA, M. A*  
 4th Workshop on Brazilian Workshop on Intelligent Software Engineering ([ISE'25](https://www.virtus.ufcg.edu.br/iseworkshop/?lang=en)), 2025. 
 
