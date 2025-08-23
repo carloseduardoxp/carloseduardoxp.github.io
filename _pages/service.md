@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Article Reviewer
-
+- **AF 2025 - Artifacts Festival, co-located with [CBSOFT 2025](https://cbsoft.sbc.org.br/2025/artefatos/?lang=en)** (2025, 2 papers).
 - **IEEE Transactions on Software Engineering** (2023, 1 paper).
 
 ---
@@ -40,6 +40,9 @@ author_profile: true
 ---
 
 ## Minicourses
+
+- 🇧🇷 **(Portuguese-BR) "Inteligência Artificial para Todos explorando as tecnologias que estão transformando o mundo"**  
+  [II InterPET IFTM - 2025](https://iftm.edu.br/eventos/interpet2025/)
 
 - 🇧🇷 **(Portuguese-BR) "Do GitHub para sua Pesquisa: extraindo dados usando a API GraphQL"**  
   [XI Encontro de Práticas Docentes - EPD 2024](https://iftm.edu.br/eventos/epd2024/)
