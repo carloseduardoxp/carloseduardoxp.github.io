@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Article Reviewer
-- **AF 2025 - Artifacts Festival, co-located with [CBSOFT 2025](https://cbsoft.sbc.org.br/2025/artefatos/?lang=en)** (2025, 2 papers).
 - **IEEE Transactions on Software Engineering** (2023, 1 paper).
 
 ---
@@ -29,7 +28,7 @@ author_profile: true
 
 ## PC Member
 
-- [Artifacts Festival at CBSOFT 2025](https://cbsoft.sbc.org.br/2025/artefatos/)
+- [Artifacts Festival at CBSOFT 2025](https://cbsoft.sbc.org.br/2025/artefatos/) (2025, 2 papers).
 
 ---
 
