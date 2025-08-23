@@ -10,7 +10,7 @@ author_profile: true
 ### 1 - [Internet Systems Technology Undergraduate](https://iftm.edu.br/cursos/uberlandiacentro/tecnologo/sistemas-para-internet/)
 
 - **Coordinator**: August 2015 to February 2018.
-- **Advisor**: 33 undergraduate students' final projects.
+- **Advisor**: 38 undergraduate students' final projects (4 theses and 34 supervised internships).
 - **Courses Taught**:
   - 2025 (2nd semester): Distributed Systems, Database Fundamentals
   - 2025 (1st semester): Monolithic Back-End Project with ORM, Database Advanced
@@ -47,7 +47,7 @@ author_profile: true
 ### 3 - [System Analysis and Development Applied to Business Management Specialization](https://iftm.edu.br/cursos/uberlandiacentro/especializacao/analise-e-desenvolvimento-de-sistemas-aplicados-a-gestao-empresarial/)
 
 - **Coordinator**: February 2018 to October 2019
-- **Advisor**: 13 specialization final project students
+- **Advisor**: 13 specialization final project students (articles)
 - **Courses Taught**:
   - 2019 (1st semester): Development Systems Architecture, Object-Oriented Programming Practices, Control Version Systems, Integrator Project
   - 2018 (2nd semester): Service-Oriented Architectures
@@ -83,7 +83,7 @@ author_profile: true
 
 ### 1 - [B.Sc. Computer Science Undergraduate](https://unitri.edu.br/curso/ciencia-da-computacao/)
 
-- **Advisor**: 2 undergraduate students' final projects.
+- **Advisor**: 2 undergraduate students' final projects (thesis).
 - **Courses Taught**:
   - 2014 (1st semester): Artificial Intelligence, Distributed Systems and Concurrency Programming, Operating Systems
   - 2013 (2nd semester): Artificial Intelligence, Distributed Systems and Concurrency Programming, Operating Systems
@@ -101,7 +101,7 @@ author_profile: true
 
 ### 2 - B.Sc. Information Systems Undergraduate
 
-- **Advisor**: 2 undergraduate students' final projects.
+- **Advisor**: 2 undergraduate students' final projects (thesis).
 - **Courses Taught**:
   - 2012 (1st semester): Software Engineering
   - 2010 (2nd semester): Supervised Internship
@@ -135,7 +135,7 @@ author_profile: true
 
 ### 6 - Java Development Specialization
 
-- **Advisor**: 15 specialization final project students.
+- **Advisor**: 15 specialization final project students (articles).
 - **Courses Taught**:
   - 2014 (1st semester): UML & Design Patterns
   - 2014 (2nd semester): Graphical Tools and Reports
