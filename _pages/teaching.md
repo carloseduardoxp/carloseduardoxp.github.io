@@ -12,6 +12,7 @@ author_profile: true
 - **Coordinator**: August 2015 to February 2018.
 - **Advisor**: 33 undergraduate students' final projects.
 - **Courses Taught**:
+  - 2025 (2nd semester): Distributed Systems, Database Fundamentals
   - 2025 (1st semester): Monolithic Back-End Project with ORM, Database Advanced
   - 2024 (2nd semester): Distributed Systems, Web System Project with MVC and SQL
   - 2024 (1st semester): Objected Oriented Paradigm 2, Internet Systems Fundamentals
@@ -33,11 +34,12 @@ author_profile: true
 ### 2 - [Computer Licenciation Undergraduate](https://iftm.edu.br/cursos/uberlandiacentro/licenciatura/computacao/)
 
 - **Courses Taught**:
+  - 2025 (2nd semester): Database Fundamentals
   - 2024 (2nd semester): Database Fundamentals
   - 2024 (1st semester): Database Advanced, Programming Logic
   - 2023 (2nd semester): Database Fundamentals
   - 2016 (1st semester): Operating Systems
-  - 2014 (2nd semester): Advanced Databases
+  - 2014 (2nd semester): Database Advanced
   - 2014 (1st semester): Computer Architecture, Database Fundamentals
 
 ---
