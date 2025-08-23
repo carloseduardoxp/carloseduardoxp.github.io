@@ -86,7 +86,7 @@ author:
   location         : "Uberlândia - Brazil"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?hl=pt-BR&tzom=180&user=he5HQUIAAAAJ&authuser=1
   email            : "carloseduardodantas@iftm.edu.br"
   researchgate     :  "https://www.researchgate.net/profile/Carlos-Dantas-8"
   uri              :
