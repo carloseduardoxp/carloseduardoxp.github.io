@@ -20,7 +20,7 @@ redirect_from:
 
 **Federal University of Uberlândia (UFU)**  
 
-- **Monograph**: [A Quantitative Study about the Use of Inheritance and Interface in Java Systems (In Portuguese)](https://carloseduardoxp.github.io/files/msc-monograph.pdf).
+- **Monograph**: [A Quantitative Study about the Use of Inheritance and Interface in Java Systems (In Portuguese)](https://repositorio.ufu.br/handle/123456789/18665) - [PDF File](https://carloseduardoxp.github.io/files/msc-monograph.pdf).
 - **Advisor**: Prof. Dr. Marcelo de Almeida Maia.
 - [Slides](https://carloseduardoxp.github.io/files/msc-slides.pdf)
 
