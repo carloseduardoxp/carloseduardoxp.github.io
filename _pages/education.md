@@ -12,6 +12,7 @@ redirect_from:
 **Federal University of Uberlândia (UFU)**  
 - **Thesis**: [Code Readability Assessment and Improvement: Human and Automated Perspectives]().
 - **Advisor**: Prof. Dr. Marcelo de Almeida Maia.
+- [Slides](https://carloseduardoxp.github.io/files/doc_slides.pdf)
 
 ---
 
