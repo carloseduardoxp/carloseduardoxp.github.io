@@ -63,7 +63,7 @@ CTIC-ES - Undergraduate Research Competition - Part of the Brazilian Symposium o
 
 ---
 
-### (accepted) Do LLMs Suggest Consistent Identifiers? An Empirical Study on GitHub Pull Requests
+### [Do LLMs Suggest Consistent Identifiers? An Empirical Study on GitHub Pull Requests](https://sol.sbc.org.br/index.php/ise/article/view/36858)
 *SILVA, J.R., DANTAS, C. E. C.; MAIA, M. A*  
 4th Workshop on Brazilian Workshop on Intelligent Software Engineering ([ISE'25](https://www.virtus.ufcg.edu.br/iseworkshop/?lang=en)), 2025. 
 
