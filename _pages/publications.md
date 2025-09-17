@@ -69,7 +69,7 @@ CTIC-ES - Undergraduate Research Competition - Part of the Brazilian Symposium o
 
 ---
 
-### (accepted) How Readable Is LLM-Generated Code Snippets? A Comparison of ChatGPT, DeepSeek, and Gemini
+### [How Readable Is LLM-Generated Code Snippets? A Comparison of ChatGPT, DeepSeek, and Gemini](https://sol.sbc.org.br/index.php/vem/article/view/36868/36654)
 *FERNANDES, G., DANTAS, C. E. C.; MAIA, M. A*  
 13th Workshop on Software Visualization, Evolution and Maintenance ([VEM'25](https://vemworkshop.github.io/vem2025/?lang=en)), 2025. Qualis B4
 
