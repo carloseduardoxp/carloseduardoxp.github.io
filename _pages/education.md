@@ -10,7 +10,7 @@ redirect_from:
 ## Ph.D. in Computer Science (2018 - 2025)
 
 **Federal University of Uberlândia (UFU)**  
-- **Thesis**: [Code Readability Assessment and Improvement: Human and Automated Perspectives]().
+- **Thesis**: [Code Readability Assessment and Improvement: Human and Automated Perspectives](https://repositorio.ufu.br/handle/123456789/46896).
 - **Advisor**: Prof. Dr. Marcelo de Almeida Maia.
 - [Slides](https://carloseduardoxp.github.io/files/doc_slides.pdf)
 
