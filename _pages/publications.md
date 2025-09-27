@@ -13,7 +13,7 @@ author_profile: true
 *ROCHA, A. M, DANTAS, C. E. C., MAIA, M. A*  
 Journal of Software Engineering Research and Development (JSERD), 2025. Qualis A4. [DOI](https://doi.org/10.5753/jserd.2025.4494)
 
-To be presented in the Journal First Track at [SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/pesquisa/)
+Presented in the Journal First Track at [SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/pesquisa/)
 
 ---
 
@@ -57,7 +57,7 @@ International Conference on Computer Science and Software Engineering (CASCON), 
 
 ### [How Close Is ChatGPT to Developer Judgment? A Study on Stack Overflow Java Questions](https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/36964)
 *REIS, F.; DANTAS, C. E. C.; MAIA, M. A*  
-CTIC-ES - Undergraduate Research Competition - Part of the Brazilian Symposium on Software Engineering ([SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/ctic/?lang=en))
+4h place out of 26 submissions at CTIC-ES - Undergraduate Research Competition - Part of the Brazilian Symposium on Software Engineering ([SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/ctic/?lang=en))
 
 ## Peer Reviewed Workshop Papers
 
