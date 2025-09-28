@@ -57,7 +57,7 @@ International Conference on Computer Science and Software Engineering (CASCON), 
 
 ### [How Close Is ChatGPT to Developer Judgment? A Study on Stack Overflow Java Questions](https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/36964)
 *REIS, F.; DANTAS, C. E. C.; MAIA, M. A*  
-🎖️ 4h place out of 26 submissions at CTIC-ES - Undergraduate Research Competition - Part of the Brazilian Symposium on Software Engineering ([SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/ctic/?lang=en))
+🎖️ CTIC finalist - 4h place out of 26 submissions at CTIC-ES - Undergraduate Research Competition - Part of the Brazilian Symposium on Software Engineering ([SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/ctic/?lang=en))
 
 ## Peer Reviewed Workshop Papers
 
