@@ -10,6 +10,7 @@ locale                   : "pt-BR"
 title                    : "Carlos Eduardo Dantas"
 title_separator          : "-"
 name                     : &name "Carlos Eduardo Dantas"
+minimal_mistakes_skin: "mint"
 description              : &description "Professor do IFTM. Pesquisa em Engenharia de Software"
 url                      : https://carloseduardoxp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -272,8 +273,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
-minimal_mistakes_skin: "mint"
 
 # Archives
 #  Type
