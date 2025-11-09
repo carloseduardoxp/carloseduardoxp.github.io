@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "pt-BR"
 title                    : "Carlos Eduardo Dantas"
 title_separator          : "-"
 name                     : &name "Carlos Eduardo Dantas"
-description              : &description "personal description"
+description              : &description "Professor do IFTM. Pesquisa em Engenharia de Software"
 url                      : https://carloseduardoxp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "carloseduardoxp/carloseduardoxp.github.io"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Sao_Paulo
 
 
 # Plugins
@@ -273,6 +273,7 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+minimal_mistakes_skin: "mint"
 
 # Archives
 #  Type
