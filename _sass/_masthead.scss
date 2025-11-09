@@ -1,53 +1,168 @@
 /* ==========================================================================
-   MASTHEAD
+   MASTHEAD — versão custom Carlos
    ========================================================================== */
 
 .masthead {
-  position: relative;
-  border-bottom: 1px solid $border-color;
+  position: sticky;   /* fica sempre visível no topo */
+  top: 0;
+  z-index: 20;
+  border-bottom: 1px solid transparent;
+  background: linear-gradient(
+    180deg,
+    mix(#fff, $primary-color, 92%) 0%,
+    #fff 85%
+  );
+  box-shadow: 0 6px 20px rgba(15, 23, 42, .06);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
-  z-index: 20;
 
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: .85rem 1rem;
     font-family: $sans-serif-narrow;
+
+    @include breakpoint($medium) {
+      padding: 1rem 1.25rem;
+    }
 
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
 
-    nav {
-      z-index: 10;
-    }
+    nav { z-index: 10; }
 
-    a {
-      text-decoration: none;
-    }
+    a { text-decoration: none; }
   }
 }
 
-.masthead__menu {
+/* título/logo do site */
+.site-title {
+  display: inline-flex;
+  align-items: center;
+  gap: .6rem;
+  margin: 0;
+  color: $darker-gray;
+  font-weight: 700;
+  font-size: 1.05rem;
 
+  img, svg {
+    height: 28px;
+    width: auto;
+    border-radius: 6px;
+  }
+
+  &:hover {
+    color: mix(#000, $darker-gray, 15%);
+  }
+}
+
+/* menu principal */
+.masthead__menu {
   ul {
     margin: 0;
     padding: 0;
-    clear: both;
-    list-style-type: none;
+    list-style: none;
+
+    display: flex;
+    align-items: center;
+    gap: .9rem;
+
+    @include breakpoint($medium) {
+      gap: 1.15rem;
+    }
   }
 }
 
+/* itens do menu */
 .masthead__menu-item {
   display: block;
-  list-style-type: none;
   white-space: nowrap;
+  font-weight: 600;
+  color: $dark-gray;
+  padding: .25rem 0;
 
+  @include breakpoint($medium) {
+    font-weight: 500;
+  }
+
+  /* estilo do link dentro do item */
+  > a {
+    position: relative;
+    color: inherit;
+
+    /* sublinhado animado no hover/focus */
+    &:after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: -4px;
+      width: 0%;
+      height: 2px;
+      background: $primary-color;
+      transition: width .18s ease;
+      border-radius: 2px;
+    }
+
+    &:hover,
+    &:focus {
+      color: $darker-gray;
+
+      &:after {
+        width: 100%;
+      }
+    }
+  }
+
+  /* versão “destacada” (ex: botão contato) */
   &--lg {
-    padding-right: 2em;
-    font-weight: 700;
+    padding-right: 0;
+    > a {
+      padding: .45rem .8rem;
+      background: $primary-color;
+      color: #fff;
+      border-radius: 999px;
+      box-shadow: $box-shadow;
+
+      &:after { display: none; } /* sem sublinhado nesse estilo */
+      &:hover { filter: brightness(.95); }
+    }
+  }
+
+  /* estado ativo via classe .is-active no <li> ou data-page atual */
+  &.is-active > a {
+    color: $darker-gray;
+
+    &:after {
+      width: 100%;
+    }
+  }
+}
+
+/* versão compacta automática em telas pequenas */
+@media (max-width: $small) {
+  .masthead__inner-wrap {
+    padding: .65rem .85rem;
+  }
+
+  .site-title {
+    font-size: 1rem;
+
+    img, svg { height: 24px; }
+  }
+
+  .masthead__menu ul {
+    gap: .65rem;
+  }
+
+  .masthead__menu-item {
+    font-size: .95rem;
   }
 }
