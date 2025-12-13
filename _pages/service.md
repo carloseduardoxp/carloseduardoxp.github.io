@@ -19,6 +19,7 @@ author_profile: true
 
 ## Conference Organization
 
+- **Co-Chair**, [CBSoft no Ensino Médio 2026](https://cbsoft2026.ime.usp.br/pt/cbsoft/organization/)
 - **Web Co-Chair**, ICPC 2026 Organization.
 - **Member Volunteer**, ICSME 2023 Organization (Uniandes, 2023).
 - **Member Volunteer**, [CBSOFT 2022 Organization](https://cbsoft2022.facom.ufu.br/organizacao.php) (UFU, 2022).
@@ -29,12 +30,6 @@ author_profile: true
 ## PC Member
 
 - [Artifacts Festival at CBSOFT 2025](https://cbsoft.sbc.org.br/2025/artefatos/) (2025, 2 papers).
-
----
-
-## Industry Involvement
-
-- Meetings with the **Sonarsource Technical Team** to present and discuss findings from articles, particularly from the ICSME 2023 paper.
 
 ---
 
@@ -68,6 +63,12 @@ author_profile: true
 - 🇧🇷 **(Portuguese-BR) "Engenharia Inteligente de Software: uma nova perspectiva sobre a área"**  
   [Enacomp 2020](https://www.enacomp.com.br/)
 
-- 🇧🇷 **(Portuguese-BR) "Utilização de Modelos de Aprendizagem Profunda para Recomendar Tarefas de Programação"**  
+- 🇧🇷 **(Portuguese-BR) "Utilização de Modelos de Aprendizagem Profunda para Recomendar Tarefas de Programação"**
+
+---
+
+## Industry Involvement
+
+- Meetings with the **Sonarsource Technical Team** to present and discuss findings from articles, particularly from the ICSME 2023 paper.
   Unitri 2020
 ---
