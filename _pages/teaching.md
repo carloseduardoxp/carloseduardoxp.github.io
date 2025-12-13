@@ -10,7 +10,7 @@ author_profile: true
 ### 1 - [Internet Systems Technology Undergraduate](https://iftm.edu.br/cursos/uberlandiacentro/tecnologo/sistemas-para-internet/)
 
 - **Coordinator**: August 2015 to February 2018.
-- **Advisor**: 38 undergraduate students' final projects (4 theses and 34 supervised internships).
+- **Advisor**: 40 undergraduate students' final projects (4 theses and 36 supervised internships).
 - **Courses Taught**:
   - 2025 (2nd semester): Distributed Systems, Database Fundamentals
   - 2025 (1st semester): Monolithic Back-End Project with ORM, Database Advanced
