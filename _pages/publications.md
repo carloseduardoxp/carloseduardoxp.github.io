@@ -135,66 +135,66 @@ Periódico de Pesquisa e Trabalhos de Conclusão de Curso - IFTM Campus Uberlân
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) ENGENHARIA DE DADOS PARA EXTRAÇÃO DE CONHECIMENTO NA AVALIAÇÃO DO APRENDIZADO EM EQUIPES DE DESENVOLVIMENTO DE SOFTWARE](https://iftm.edu.br/simpos/2018/anais/766-%20Pronto%20ANAIS.pdf)**
+### 🇧🇷 **[(Portuguese-BR) Engenharia de Dados para Extração de Conhecimento na Avaliação do Aprendizado em Equipes de Desenvolvimento de Software](https://iftm.edu.br/simpos/2018/anais/766-%20Pronto%20ANAIS.pdf)**
 *Danielli Araújo Lima and Carlos Eduardo de Carvalho Dantas*  
-Anais do Simpósio de Pós-Graduação v.5 / 2018 | Uberaba/MG ISSN 2674-7839
+Anais do Simpósio de Pós-Graduação v.5 / 2018 | Uberaba/MG | ISSN 2674-7839
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) UMA ANÁLISE SOBRE CLASSES ORIENTADAS A OBJETOS APLICANDO MÉTRICAS ESTRUTURAIS](https://urupemba.ifal.edu.br/back-end/pdf/iftm/?document=2045)**
-*VANDERLAN DE SOUZA FILHO and Carlos Eduardo de Carvalho Dantas*  
-Anais do Simpósio de Pós-Graduação v.4 / 2017 | Uberaba/MG ISSN 2674-7839
+### 🇧🇷 **[(Portuguese-BR) Uma Análise sobre Classes Orientadas a Objetos Aplicando Métricas Estruturais](https://urupemba.ifal.edu.br/back-end/pdf/iftm/?document=2045)**
+*Vanderlan de Souza Filho and Carlos Eduardo de Carvalho Dantas*  
+Anais do Simpósio de Pós-Graduação v.4 / 2017 | Uberaba/MG | ISSN 2674-7839
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) UMA ANÁLISE SOBRE OS MOTIVOS PELOS QUAIS PROGRAMADORES REALIZAM REFATORAÇÃO NOS SISTEMAS](https://iftm.edu.br/simpos/2016/Trabalhos/20160050.pdf)**
+### 🇧🇷 **[(Portuguese-BR) Uma Análise sobre os Motivos pelos Quais Programadores Realizam Refatoração nos Sistemas](https://iftm.edu.br/simpos/2016/Trabalhos/20160050.pdf)**
 *Saulo Damasceno Borges and Carlos Eduardo de Carvalho Dantas*  
-Anais do Simpósio de Pós-Graduação v.3 / 2016 | Uberaba/MG ISSN 2359-0130
+Anais do Simpósio de Pós-Graduação v.3 / 2016 | Uberaba/MG | ISSN 2359-0130
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) BOAS PRÁTICAS DE DESENVOLVIMENTO DE SOFTWARE: UM ESTUDO DE CASO](https://iftm.edu.br/simpos/2015/Trabalhos/5016.pdf)**
-*VINÍCIUS GONÇALVES DE SOUZA, EDSON ANGOTI JUNIOR, CARLOS EDUARDO DE CARVALHO DANTAS*  
-Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG ISSN 2359-0130
+### 🇧🇷 **[(Portuguese-BR) Boas Práticas de Desenvolvimento de Software: Um Estudo de Caso](https://iftm.edu.br/simpos/2015/Trabalhos/5016.pdf)**
+*Vinícius Gonçalves de Souza, Edson Angoti Junior, Carlos Eduardo de Carvalho Dantas*  
+Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) UM ESTUDO SOBRE VENDOR LOCK-IN EM BANCOS DE DADOS NOSQL](https://iftm.edu.br/simpos/2015/Trabalhos/5032.pdf)**
-*EDUARDO JOSÉ SCHMITT, CARLOS EDUARDO DE CARVALHO DANTAS*  
-Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG ISSN 2359-0130
+### 🇧🇷 **[(Portuguese-BR) Um Estudo sobre Vendor Lock-in em Bancos de Dados NoSQL](https://iftm.edu.br/simpos/2015/Trabalhos/5032.pdf)**
+*Eduardo José Schmitt, Carlos Eduardo de Carvalho Dantas*  
+Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) UMA ANÁLISE SOBRE O USO DO LIFERAY NO GERENCIAMENTO DE PORTAIS WEB](https://iftm.edu.br/simpos/2015/Trabalhos/5042.pdf)**
-*NILSON BERNARDES BARCELOS JUNIOR, CARLOS EDUARDO DE CARVALHO DANTAS*  
-Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG ISSN 2359-0130
+### 🇧🇷 **[(Portuguese-BR) Uma Análise sobre o Uso do Liferay no Gerenciamento de Portais Web](https://iftm.edu.br/simpos/2015/Trabalhos/5042.pdf)**
+*Nilson Bernardes Barcelos Junior, Carlos Eduardo de Carvalho Dantas*  
+Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) ESTUDO SOBRE ENVELHECIMENTO DE SOFTWARE E ESTRATÉGIAS DE REJUVENESCIMENTO NA INTEGRAÇÃO DE SISTEMAS DE INFORMAÇÃO](https://iftm.edu.br/simpos/2015/Trabalhos/5062.pdf)**
-*VICTOR HUGO DE OLIVEIRA MOLINAR, CARLOS EDUARDO DE CARVALHO DANTAS*  
-Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG ISSN 2359-0130
+### 🇧🇷 **[(Portuguese-BR) Estudo sobre Envelhecimento de Software e Estratégias de Rejuvenescimento na Integração de Sistemas de Informação](https://iftm.edu.br/simpos/2015/Trabalhos/5062.pdf)**
+*Victor Hugo de Oliveira Molinar, Carlos Eduardo de Carvalho Dantas*  
+Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR)UM ESTUDO SOBRE A EFICIÊNCIA DO MODO GRACEFUL PARA REINICIALIZAÇÃO DE SERVIDORES WEB](https://iftm.edu.br/simpos/2015/Trabalhos/5092.pdf)**
-*LÉO CANDIDO SILVA, CARLOS EDUARDO CARVALHO DANTAS*  
-Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG ISSN 2359-0130
+### 🇧🇷 **[(Portuguese-BR) Um Estudo sobre a Eficiência do Modo Graceful para Reinicialização de Servidores Web](https://iftm.edu.br/simpos/2015/Trabalhos/5092.pdf)**
+*Léo Candido Silva, Carlos Eduardo de Carvalho Dantas*  
+Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) IDENTIFICAÇÃO DE CARACTERÍSTICAS REFERENTES AO MAU USO DE HERANÇA EM SISTEMAS COMERCIAIS](https://iftm.edu.br/simpos/2015/Trabalhos/5103.pdf)**
-*MARCELO MACEDO DE MELO SILVA, CARLOS EDUARDO DE CARVALHO DANTAS*  
-Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG ISSN 2359-0130
+### 🇧🇷 **[(Portuguese-BR) Identificação de Características Referentes ao Mau Uso de Herança em Sistemas Comerciais](https://iftm.edu.br/simpos/2015/Trabalhos/5103.pdf)**
+*Marcelo Macedo de Melo Silva, Carlos Eduardo de Carvalho Dantas*  
+Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) UTILIZANDO FERRAMENTAS DE DETECÇÃO DE BAD SMELLS PARA RECOMENDAR REFACTORING EM SISTEMAS COMERCIAIS](https://iftm.edu.br/simpos/2015/Trabalhos/5111.pdf)**
-*LÍDIA NOVAIS PÁDUA, CARLOS EDUARDO DE CARVALHO DANTAS*  
-Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG ISSN 2359-0130
+### 🇧🇷 **[(Portuguese-BR) Utilizando Ferramentas de Detecção de Bad Smells para Recomendar Refactoring em Sistemas Comerciais](https://iftm.edu.br/simpos/2015/Trabalhos/5111.pdf)**
+*Lídia Novais Pádua, Carlos Eduardo de Carvalho Dantas*  
+Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) UTILIZANDO GOOGLE HACKING PARA ENCONTRAR VULNERABILIDADES EM SITES](https://iftm.edu.br/simpos/2015/Trabalhos/5112.pdf)**
-*BRUNO RODRIGO BARBOSA CORTES, CARLOS EDUARDO DE CARVALHO DANTAS*  
-Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG ISSN 2359-0130
+### 🇧🇷 **[(Portuguese-BR) Utilizando Google Hacking para Encontrar Vulnerabilidades em Sites](https://iftm.edu.br/simpos/2015/Trabalhos/5112.pdf)**
+*Bruno Rodrigo Barbosa Cortes, Carlos Eduardo de Carvalho Dantas*  
+Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
