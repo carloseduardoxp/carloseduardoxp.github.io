@@ -50,6 +50,9 @@ author_profile: true
 - 🇧🇷 **(Portuguese-BR) "Utilizando o GitHub para realizar pesquisas em repositórios de Software Livre"**  
   Encontro de Práticas Docentes (EPD) 2016
 
+- 🇧🇷 **(Portuguese-BR) "Programação de interfaces Gráficas no padrão MVC com Java/NetBeans"**  
+  IFTM Campus Uberlândia Centro 2014
+
 ---
 
 ## Talks
