@@ -141,6 +141,12 @@ Anais do Simpósio de Pós-Graduação v.5 / 2018 | Uberaba/MG ISSN 2674-7839
 
 ---
 
+### 🇧🇷 **[(Portuguese-BR) UMA ANÁLISE SOBRE CLASSES ORIENTADAS A OBJETOS APLICANDO MÉTRICAS ESTRUTURAIS](https://urupemba.ifal.edu.br/back-end/pdf/iftm/?document=2045)**
+*VANDERLAN DE SOUZA FILHO and Carlos Eduardo de Carvalho Dantas*  
+Anais do Simpósio de Pós-Graduação v.4 / 2017 | Uberaba/MG ISSN 2674-7839
+
+---
+
 ### 🇧🇷 **[(Portuguese-BR) UMA ANÁLISE SOBRE OS MOTIVOS PELOS QUAIS PROGRAMADORES REALIZAM REFATORAÇÃO NOS SISTEMAS](https://iftm.edu.br/simpos/2016/Trabalhos/20160050.pdf)**
 *Saulo Damasceno Borges and Carlos Eduardo de Carvalho Dantas*  
 Anais do Simpósio de Pós-Graduação v.3 / 2016 | Uberaba/MG ISSN 2359-0130
