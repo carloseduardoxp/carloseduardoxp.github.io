@@ -67,6 +67,16 @@ author_profile: true
   [Enacomp 2020](https://www.enacomp.com.br/)
 
 - 🇧🇷 **(Portuguese-BR) "Utilização de Modelos de Aprendizagem Profunda para Recomendar Tarefas de Programação"**
+Unitri 2020
+
+- 🇧🇷 **(Portuguese-BR) "Qualidade de software: algumas boas práticas adotadas por Programadores"**
+XVI Semana da Engenharia da Computação - UEMG Campus Ituiutaba
+
+- 🇧🇷 **(Portuguese-BR) "Implementando soluções em BigData com Apache Hadoop/Hive"**
+UaiJug CLoud Day 2014
+
+- 🇧🇷 **(Portuguese-BR) "A Plataforma Java como Ambiente para o Mercado Corporativo"**
+XXVI Jornada Científica do curso de Engenharia Elétrica - UEMG Campus Ituiutaba
 
 ---
 
