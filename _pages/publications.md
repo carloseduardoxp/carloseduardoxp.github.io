@@ -43,6 +43,8 @@ International Conference on Software Maintenance and Evolution ([ICSME](https://
 *DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A*  
 XXXVII Brazilian Symposium on Software Engineering ([SBES](https://cbsoft2023.ufms.br/en-US)), 2023. Qualis A3 [DOI](https://dl.acm.org/doi/10.1145/3613372.3613413)
 
+Accepted to present at Brazilian Software Engineering Showcase track, co-located with [ICSE 2026](https://conf.researchr.org/track/icse-2026/icse-2026-brazilian-software-engineering-showcase#event-overview)
+
 ---
 
 ### [On the Actual Use of Inheritance and Interface in Java Projects: Evolution and Implications](http://lascam.facom.ufu.br/cms/userfiles/downloads/2017/CASCON2017-Inheritance-X-Interface.pdf)
