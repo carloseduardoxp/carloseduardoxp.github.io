@@ -19,7 +19,7 @@ author_profile: true
 ## Conference Organization
 
 - **Co-Chair**, [CBSoft no Ensino Médio 2026](https://cbsoft2026.ime.usp.br/pt/cbsoft/organization/)
-- **Web Co-Chair**, ICPC 2026 Organization.
+- **Web Co-Chair**, [ICPC 2026 Organization](https://conf.researchr.org/committee/icpc-2026/icpc-2026-organizing-committee).
 - **Member Volunteer**, ICSME 2023 Organization (Uniandes, 2023).
 - **Member Volunteer**, [CBSOFT 2022 Organization](https://cbsoft2022.facom.ufu.br/organizacao.php) (UFU, 2022).
 - **Publicity Chair**, [VEM 2022](https://vemworkshop.github.io/vem2022/organization.html).
@@ -83,5 +83,5 @@ XXVI Jornada Científica do curso de Engenharia Elétrica - UEMG Campus Ituiutab
 ## Industry Involvement
 
 - Meetings with the **Sonarsource Technical Team** to present and discuss findings from articles, particularly from the ICSME 2023 paper.
-  Unitri 2020
+
 ---
