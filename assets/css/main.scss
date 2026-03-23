@@ -1,23 +1,13 @@
 ---
 ---
 
-/*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
-
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+/* imports do tema */
+@import "vendor/breakpoint/breakpoint";
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
-
 @import "reset";
 @import "base";
-
 @import "utilities";
 @import "animations";
 @import "tables";
@@ -27,15 +17,55 @@
 @import "navigation";
 @import "footer";
 @import "syntax";
-
 @import "forms";
-
 @import "page";
 @import "archive";
 @import "sidebar";
-
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ===== CUSTOMIZAÇÕES ===== */
+
+html {
+  font-size: 17px;
+}
+
+body {
+  line-height: 1.75;
+}
+
+.page {
+  max-width: 1280px;
+}
+
+.page__content {
+  font-size: 1.02rem;
+}
+
+.page__title {
+  font-size: 2.1rem;
+  line-height: 1.2;
+  margin-bottom: 1.2rem;
+}
+
+.page__content h2 {
+  font-size: 1.55rem;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid #e9eef3;
+}
+
+.page__content h3 {
+  font-size: 1.2rem;
+  margin-top: 1.6rem;
+  margin-bottom: 0.55rem;
+}
+
+.page__content p,
+.page__content li {
+  color: #2f3a45;
+}
