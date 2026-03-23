@@ -11,10 +11,8 @@ author_profile: true
 
 ---
 
-## Article Co-Reviewer
-
-- **Empirical Software Engineering (EMSE)** (2020, 2 papers).
-- **Automated Software Engineering (ASE)** (2023, 4 papers).
+## PC Member
+- [Artifacts Festival at CBSOFT 2025](https://cbsoft.sbc.org.br/2025/artefatos/) (2025, 2 papers).
 
 ---
 
@@ -28,8 +26,10 @@ author_profile: true
 
 ---
 
-## PC Member
-- [Artifacts Festival at CBSOFT 2025](https://cbsoft.sbc.org.br/2025/artefatos/) (2025, 2 papers).
+## Article Co-Reviewer
+
+- **Empirical Software Engineering (EMSE)** (2020, 2 papers).
+- **Automated Software Engineering (ASE)** (2023, 4 papers).
 
 ---
 
