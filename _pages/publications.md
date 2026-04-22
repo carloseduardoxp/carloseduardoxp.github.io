@@ -13,7 +13,7 @@ author_profile: true
 *ROCHA, A. M, DANTAS, C. E. C., MAIA, M. A*  
 Journal of Software Engineering Research and Development (JSERD), 2025. [DOI](https://doi.org/10.5753/jserd.2025.4494)
 
-Presented in the Journal First Track at [SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/pesquisa/)
+🎤 Presented in the Journal First Track at [SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/pesquisa/)
 
 ---
 
@@ -43,7 +43,7 @@ International Conference on Software Maintenance and Evolution ([ICSME](https://
 *DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A*  
 XXXVII Brazilian Symposium on Software Engineering ([SBES](https://cbsoft2023.ufms.br/en-US)), 2023. [DOI](https://dl.acm.org/doi/10.1145/3613372.3613413)
 
-Accepted to present at Brazilian Software Engineering Showcase track, co-located with [ICSE 2026](https://conf.researchr.org/track/icse-2026/icse-2026-brazilian-software-engineering-showcase#event-overview)
+🎤 Presented in the Brazilian Software Engineering Showcase Track, co-located with [ICSE 2026](https://conf.researchr.org/track/icse-2026/icse-2026-brazilian-software-engineering-showcase#event-overview)
 
 ---
 
