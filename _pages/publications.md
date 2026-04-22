@@ -11,7 +11,7 @@ author_profile: true
 
 ### [The Influence of Search Engine Ranking Quality on the Performance of Developers](https://journals-sol.sbc.org.br/index.php/jserd/article/view/4494)
 *ROCHA, A. M, DANTAS, C. E. C., MAIA, M. A*  
-Journal of Software Engineering Research and Development (JSERD), 2025. Qualis A4. [DOI](https://doi.org/10.5753/jserd.2025.4494)
+Journal of Software Engineering Research and Development (JSERD), 2025. [DOI](https://doi.org/10.5753/jserd.2025.4494)
 
 Presented in the Journal First Track at [SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/pesquisa/)
 
@@ -19,13 +19,13 @@ Presented in the Journal First Track at [SBES 2025](https://cbsoft.sbc.org.br/20
 
 ### [Improved retrieval of programming solutions with code examples using a multi-featured score](https://arxiv.org/pdf/2108.02702.pdf)
 *Rodrigo Fernandes Gomes da Silva, Mohammad Masudur Rahman, Carlos Eduardo Dantas, Chanchal Roy, Foutse Khomh, and Marcelo de Almeida Maia.*  
-Journal of Systems and Software (JSS), 2021. Qualis A2. [DOI](https://doi.org/10.1016/j.jss.2021.111063)
+Journal of Systems and Software (JSS), 2021. [DOI](https://doi.org/10.1016/j.jss.2021.111063)
 
 ---
 
 ### [CROKAGE: effective solution recommendation for programming tasks by leveraging crowd knowledge](https://www.researchgate.net/publication/344081657_CROKAGE_effective_solution_recommendation_for_programming_tasks_by_leveraging_crowd_knowledge)
 *Rodrigo Fernandes Gomes da Silva, Chanchal Roy, Mohammad Masudur Rahman, Kevin A. Schneider, Klérisson V. R. Paixão, Carlos Eduardo Dantas, and Marcelo de Almeida Maia.*  
-Empirical Software Engineering (EMSE), 2020. Qualis A2. [DOI](https://doi.org/10.1007/s10664-020-09863-2)
+Empirical Software Engineering (EMSE), 2020. [DOI](https://doi.org/10.1007/s10664-020-09863-2)
 
 ---
 
@@ -35,13 +35,13 @@ Empirical Software Engineering (EMSE), 2020. Qualis A2. [DOI](https://doi.org/10
 
 ### [How do Developers Improve Code Readability? An Empirical Study of Pull Requests](https://conf.researchr.org/details/icsme-2023/icsme-2023-papers/24/How-do-Developers-Improve-Code-Readability-An-Empirical-Study-of-Pull-Requests)
 *DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A*  
-International Conference on Software Maintenance and Evolution ([ICSME](https://conf.researchr.org/home/icsme-2023)), 2023. Qualis A2
+International Conference on Software Maintenance and Evolution ([ICSME](https://conf.researchr.org/home/icsme-2023)), 2023. 
 
 ---
 
 ### 🏆 **Award Paper**: [Assessing the Readability of ChatGPT Code Snippet Recommendations: A Comparative Study](https://dl.acm.org/doi/pdf/10.1145/3613372.3613413)
 *DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A*  
-XXXVII Brazilian Symposium on Software Engineering ([SBES](https://cbsoft2023.ufms.br/en-US)), 2023. Qualis A3 [DOI](https://dl.acm.org/doi/10.1145/3613372.3613413)
+XXXVII Brazilian Symposium on Software Engineering ([SBES](https://cbsoft2023.ufms.br/en-US)), 2023. [DOI](https://dl.acm.org/doi/10.1145/3613372.3613413)
 
 Accepted to present at Brazilian Software Engineering Showcase track, co-located with [ICSE 2026](https://conf.researchr.org/track/icse-2026/icse-2026-brazilian-software-engineering-showcase#event-overview)
 
@@ -49,7 +49,7 @@ Accepted to present at Brazilian Software Engineering Showcase track, co-located
 
 ### [On the Actual Use of Inheritance and Interface in Java Projects: Evolution and Implications](http://lascam.facom.ufu.br/cms/userfiles/downloads/2017/CASCON2017-Inheritance-X-Interface.pdf)
 *DANTAS, C. E. C.; MAIA, M. A*  
-International Conference on Computer Science and Software Engineering (CASCON), 2017. Qualis B1 [DOI](https://dl.acm.org/doi/10.5555/3172795.3172813)
+International Conference on Computer Science and Software Engineering (CASCON), 2017. [DOI](https://dl.acm.org/doi/10.5555/3172795.3172813)
 
 ---
 
@@ -73,13 +73,13 @@ International Conference on Computer Science and Software Engineering (CASCON), 
 
 ### 🏆 **Award Paper**: [How Readable Is LLM-Generated Code Snippets? A Comparison of ChatGPT, DeepSeek, and Gemini](https://sol.sbc.org.br/index.php/vem/article/view/36868/36654)
 *FERNANDES, G., DANTAS, C. E. C.; MAIA, M. A*  
-13th Workshop on Software Visualization, Evolution and Maintenance ([VEM'25](https://vemworkshop.github.io/vem2025/?lang=en)), 2025. Qualis B4
+13th Workshop on Software Visualization, Evolution and Maintenance ([VEM'25](https://vemworkshop.github.io/vem2025/?lang=en)), 2025. 
 
 ---
 
 ### 🏆 **Award Paper**: [What Developers Ask to ChatGPT in GitHub Pull Requests? an Exploratory Study](https://sol.sbc.org.br/index.php/vem/article/view/30288/30094)
 *SILVA, J.R., DANTAS, C. E. C.; MAIA, M. A*  
-12th Workshop on Software Visualization, Evolution and Maintenance ([VEM'24](https://vemworkshop.github.io/vem2024/))], 2024. Qualis B4
+12th Workshop on Software Visualization, Evolution and Maintenance ([VEM'24](https://vemworkshop.github.io/vem2024/))], 2024. 
 
 ---
 
@@ -91,13 +91,13 @@ International Conference on Computer Science and Software Engineering (CASCON), 
 
 ### [Readability and Understandability Scores for Snippet Assessment: an Exploratory Study](https://arxiv.org/pdf/2108.09181.pdf)
 *DANTAS, C. E. C.; MAIA, M. A*  
-9th Workshop on Software Visualization, Evolution and Maintenance ([VEM'21](https://vemworkshop.github.io/vem2021/index.html)), 2021. Qualis B4 [DOI](https://doi.org/10.5753/vem.2021.17217)
+9th Workshop on Software Visualization, Evolution and Maintenance ([VEM'21](https://vemworkshop.github.io/vem2021/index.html)), 2021. [DOI](https://doi.org/10.5753/vem.2021.17217)
 
 ---
 
 ### 🇧🇷 **[(Portuguese-BR) Uma análise da associação de co-ocorrência de anomalias de código com métricas estruturais](https://vem2016.ufba.br/artigos/Session2_VEM_2016_paper_27.pdf)**
 *DANTAS, C. E. C.; MAIA, M. A*  
-4th Workshop on Software Visualization, Evolution and Maintenance ([VEM'16](https://vem2016.ufba.br/)), 2016. Qualis B4
+4th Workshop on Software Visualization, Evolution and Maintenance ([VEM'16](https://vem2016.ufba.br/)), 2016. 
 
 ---
 
