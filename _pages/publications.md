@@ -121,6 +121,12 @@ Java Magazine periodic, 2013.
 
 ---
 
+### 🇧🇷 **[(Portuguese-BR) Viés de Amostragem e Viés Temporal: Proposta de um Framework para Apoiar a Confiabilidade e Transparência em Modelos de Inteligência  ArtificialUm Estudo Exploratório sobre o uso do ChatGPT em ambientes de Desenvolvimento de Software](http://waltenomartins.com.br/periodico_campus_2026.pdf)**
+*Amanda Laiz Alves de Sousa Rodrigues and Carlos Eduardo de Carvalho Dantas*  
+Periódico de Pesquisa e Trabalhos de Conclusão de Curso - IFTM Campus Uberlândia Centro, 2026.
+
+---
+
 ### 🇧🇷 **[(Portuguese-BR) Um Estudo Exploratório sobre o uso do ChatGPT em ambientes de Desenvolvimento de Software](https://iftm.edu.br/sdsgov/controlador2/load.php?src=b12a2d7acec778d71a7b38d8fc8d9cfd&tipo=noticia_anexo)**
 *Ozório Maurício da Costa and Carlos Eduardo de Carvalho Dantas*  
 Periódico de Pesquisa e Trabalhos de Conclusão de Curso - IFTM Campus Uberlândia Centro, 2024.
