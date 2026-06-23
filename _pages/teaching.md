@@ -10,8 +10,9 @@ author_profile: true
 ### 1 - [Internet Systems Technology Undergraduate](https://iftm.edu.br/cursos/uberlandiacentro/tecnologo/sistemas-para-internet/)
 
 - **Coordinator**: August 2015 to February 2018.
-- **Advisor**: 40 undergraduate students' final projects (4 theses and 36 supervised internships).
+- **Advisor**: 42 undergraduate students' final projects (5 theses and 37 supervised internships).
 - **Courses Taught**:
+  - 2026 (2nd semester): Distributed Systems, Microservices and NoSQL Back-End Project
   - 2026 (1st semester): Monolithic Back-End Project with ORM, Database Advanced
   - 2025 (2nd semester): Distributed Systems, Database Fundamentals
   - 2025 (1st semester): Monolithic Back-End Project with ORM, Database Advanced
@@ -71,7 +72,13 @@ author_profile: true
 
 ---
 
-### 5 - IFTM Programming Contest
+### 5 - [Digital Technologies in Education Specialization](https://iftm.edu.br/cursos/uberlandiacentro/especializacao/tecnologias-digitais-na-educacao-ead/)
+
+- **Advisor**: 1 specialization final project students (articles)
+
+---
+
+### 6 - IFTM Programming Contest
 
 - **Head** of IFTM Programming Contest (I, II, III, IV, V and VI editions): 2015, 2016, 2017, 2018, 2024, 2025
 
