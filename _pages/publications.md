@@ -33,6 +33,12 @@ Empirical Software Engineering (EMSE), 2020. [DOI](https://doi.org/10.1007/s1066
 
 ---
 
+### JADE: A VSCode Plugin for Static Analysis-Guided AI-Assisted RefactoringHow do Developers Improve Code Readability?
+*NERES, R.; DANTAS, C. E. C.; MAIA, M. A*  
+(accepted) XL Brazilian Symposium on Software Engineering - Tools Track ([SBES-Tools](https://cbsoft.sbc.org.br/2026/pt)), 2026.
+
+---
+
 ### [How do Developers Improve Code Readability? An Empirical Study of Pull Requests](https://conf.researchr.org/details/icsme-2023/icsme-2023-papers/24/How-do-Developers-Improve-Code-Readability-An-Empirical-Study-of-Pull-Requests)
 *DANTAS, C. E. C.; ROCHA, A. M, MAIA, M. A*  
 International Conference on Software Maintenance and Evolution ([ICSME](https://conf.researchr.org/home/icsme-2023)), 2023. 
