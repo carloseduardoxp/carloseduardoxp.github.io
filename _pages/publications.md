@@ -202,7 +202,7 @@ Java Magazine ([DevMedia](https://www.devmedia.com.br/revista-java-magazine-112/
 
 *Amanda Laiz Alves de Sousa Rodrigues and **Carlos Eduardo de Carvalho Dantas***  
 
-Periódico de Pesquisa e Trabalhos de Conclusão de Curso - IFTM Campus Uberlândia Centro, 2026.
+Periódico de Pesquisa e Trabalhos de Conclusão de Curso v.11 / 202 | IFTM Campus Uberlândia Centro | ISSN 2526-2041
 
 [PDF](http://waltenomartins.com.br/periodico_campus_2026.pdf)
 
@@ -212,7 +212,7 @@ Periódico de Pesquisa e Trabalhos de Conclusão de Curso - IFTM Campus Uberlân
 
 *Ozório Maurício da Costa and **Carlos Eduardo de Carvalho Dantas***  
 
-Periódico de Pesquisa e Trabalhos de Conclusão de Curso - IFTM Campus Uberlândia Centro, 2024.
+Periódico de Pesquisa e Trabalhos de Conclusão de Curso v.23 / 2024 | IFTM Campus Uberlândia Centro | ISSN 2526-2041
 
 [PDF](https://iftm.edu.br/sdsgov/controlador2/load.php?src=b12a2d7acec778d71a7b38d8fc8d9cfd&tipo=noticia_anexo)
 
@@ -222,7 +222,7 @@ Periódico de Pesquisa e Trabalhos de Conclusão de Curso - IFTM Campus Uberlân
 
 *Léo Cândido Silva and **Carlos Eduardo de Carvalho Dantas***  
 
-Periódico de Pesquisa e Trabalhos de Conclusão de Curso - IFTM Campus Uberlândia Centro, 2016.
+Periódico de Pesquisa e Trabalhos de Conclusão de Curso v.1 / 2016 | IFTM Campus Uberlândia Centro | ISSN 2526-2041
 
 [PDF](http://waltenomartins.com.br/periodico_campus_2016.pdf)
 
@@ -243,7 +243,9 @@ Anais do Simpósio de Pós-Graduação v.5 / 2018 | Uberaba/MG | ISSN 2674-7839
 ---
 
 ### 🇧🇷 Uma Análise sobre Classes Orientadas a Objetos Aplicando Métricas Estruturais
+
 *Vanderlan de Souza Filho and **Carlos Eduardo de Carvalho Dantas***  
+
 Anais do Simpósio de Pós-Graduação v.4 / 2017 | Uberaba/MG | ISSN 2674-7839
 
 [PDF](https://urupemba.ifal.edu.br/back-end/pdf/iftm/?document=2045)
