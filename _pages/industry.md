@@ -23,10 +23,10 @@ author_profile: true
 
 - **Core Business**: Wholesale and industrial operations, providing over 10,000 products to 120,000 registered clients.
 - **Main Responsibilities**:
-  - Migrated the entire ERP system from JBoss 4.0.5 to JBoss 4.2.3, ensuring seamless adaptation of all legacy systems.
-  - Developed the "Tatic Action" module from scratch, enabling dynamic discount capabilities for the Mobile Sales Force over a three-year period.
-  - Ported the Mobile Sales Force application from Java ME to the Android platform.
-  - Created a sales management system to monitor the actions of RCAs (vendors) in their regions.
+  - Led the migration of the company's ERP platform from JBoss 4.0.5/JSF 1.1 to JBoss 4.2.3/JSF 1.2, eliminating dependency on a proprietary UI framework and enabling the adoption of RichFaces for new development. Refactored the legacy framework for JSF 1.2 compatibility, validated all existing enterprise applications, and ensured a seamless platform migration.
+  - Designed and implemented the "Tatic Action" module from scratch, enabling configurable promotional campaigns based on complex business rules, including product combinations, sales targets, supplier restrictions, and regional eligibility. Integrated the solution with the Mobile Sales Force, pricing engine, and order capture systems over a three-year period.
+  - Migrated the company's Mobile Sales Force application from Java ME to Android by adapting the legacy application for Android-specific APIs and device behavior. Successfully validated the solution on Samsung Galaxy S2 devices, enabling the large-scale replacement of legacy Motorola A1200 devices with hundreds of Android smartphones without a full redevelopment effort.
+  - Reengineered an offline Sales Management System by migrating its embedded persistence layer from an unreliable object-oriented database to Apache Derby, eliminating recurring database corruption issues. Expanded the system with management capabilities including ABC analysis, sales performance monitoring, and sales representative administration.
   - Assisted in porting the Oracle database from 8i to 10g.
 
 - **Key Technologies**: Java, Java SE (Swing), Java EE (JSF, EJB, JPA, Quartz, JNDI), Oracle, Java ME, Android.
