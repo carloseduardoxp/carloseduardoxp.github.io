@@ -57,29 +57,29 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : https://www.instagram.com/carloseduardoxp.github.io/
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :  https://www.linkedin.com/in/carlos-eduardo-948b7b35/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : https://steamcommunity.com/id/carloseduardoxp
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : https://x.com/CarlosEduardoCD
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          :  https://www.youtube.com/@CarlosEduardo-cw6yq
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
