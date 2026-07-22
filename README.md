@@ -1,4 +1,4 @@
-# Carlos Eduardo de Carvalho Dantas — Academic Website
+# Carlos Eduardo Dantas — Academic Website
 
 This repository contains the source code for my personal academic website, hosted with GitHub Pages.
 
