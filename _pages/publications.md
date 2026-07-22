@@ -63,6 +63,12 @@ International Conference on Computer Science and Software Engineering (CASCON), 
 
 ---
 
+### Code Readability Assessment and Improvement: Human and Automated Perspectives
+*DANTAS, C. E. C.; MAIA, M. A*  
+🎖️ PhD Thesis Finalist at the Software Engineering Doctoral and Master Theses Competition (CTD-ES), held as part of the Brazilian Symposium on Software Engineering ([SBES 2026](https://cbsoft.sbc.org.br/2026/pt/symposiums/sbes/ctd/papers/))
+
+---
+
 ### [How Close Is ChatGPT to Developer Judgment? A Study on Stack Overflow Java Questions](https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/36964)
 *REIS, F.; DANTAS, C. E. C.; MAIA, M. A*  
 🎖️ CTIC Finalist – 4th place out of 26 submissions at the Undergraduate Research Competition (CTIC-ES), part of the Brazilian Symposium on Software Engineering ([SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/ctic/?lang=en))
