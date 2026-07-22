@@ -13,11 +13,11 @@ author_profile: true
 
 *Adriano Mendonça Rocha, **Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
 
-Journal of Software Engineering Research and Development ([JSERD](https://journals-sol.sbc.org.br/index.php/jserd/issue/view/363)), vol. 13, 2025. 
+Journal of Software Engineering Research and Development ([JSERD](https://journals-sol.sbc.org.br/index.php/jserd/issue/view/363)) | vol. 13 | 2025. 
 
 [DOI](https://doi.org/10.5753/jserd.2025.4494) · [PDF](https://journals-sol.sbc.org.br/index.php/jserd/article/view/4494/3279)
 
-🎤 Presented at 39th Brazilian Symposium on Software Engineering [SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/pesquisa/) (Journal First Track), 2025.
+🎤 Presented at Brazilian Symposium on Software Engineering [SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/pesquisa/) (Journal First Track) | 39th ed. | 2025.
 
 ---
 
@@ -25,7 +25,7 @@ Journal of Software Engineering Research and Development ([JSERD](https://journa
 
 *Rodrigo Fernandes Gomes da Silva, Mohammad Masudur Rahman, **Carlos Eduardo de Carvalho Dantas**, Chanchal Roy, Foutse Khomh, and Marcelo de Almeida Maia.*  
 
-Journal of Systems and Software ([JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software/vol/181/suppl/C)), vol. 181, 2021.
+Journal of Systems and Software ([JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software/vol/181/suppl/C)) | vol. 181 | 2021.
 
 [DOI](https://doi.org/10.1016/j.jss.2021.111063) · [PDF](https://arxiv.org/pdf/2108.02702.pdf)
  
@@ -35,7 +35,7 @@ Journal of Systems and Software ([JSS](https://www.sciencedirect.com/journal/jou
 
 *Rodrigo Fernandes Gomes da Silva, Chanchal Roy, Mohammad Masudur Rahman, Kevin A. Schneider, Klérisson V. R. Paixão, **Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia.*  
 
-Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6)), vol. 25, 2020. 
+Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6)) | vol. 25 | 2020. 
 
 [DOI](https://doi.org/10.1007/s10664-020-09863-2) · [Extended Version (PhD Thesis)](https://repositorio.ufu.br/bitstream/123456789/29401/5/CROKAGEEffectiveSolutionRecommendation.pdf)
 
@@ -49,7 +49,7 @@ Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6
 
 *Ruan Pablo de Assis Neres, Marcelo de Almeida Maia, and **Carlos Eduardo de Carvalho Dantas***  
 
-40th Brazilian Symposium on Software Engineering - Tools Track ([SBES Tools](https://cbsoft.sbc.org.br/2026/pt)), 2026.
+Brazilian Symposium on Software Engineering - Tools Track ([SBES Tools](https://cbsoft.sbc.org.br/2026/pt)) | 40th ed. | 2026.
 
 🟢 **Accepted**
 
@@ -59,7 +59,7 @@ Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6
 
 ***Carlos Eduardo de Carvalho Dantas**, Adriano Mendonça Rocha, and Marcelo de Almeida Maia*
 
-39th International Conference on Software Maintenance and Evolution ([ICSME](https://conf.researchr.org/home/icsme-2023)), 2023. 
+International Conference on Software Maintenance and Evolution ([ICSME](https://conf.researchr.org/home/icsme-2023)) | 39th ed. | 2023. 
 
 [DOI](https://www.computer.org/csdl/proceedings-article/icsme/2023/278300a110/1SN6kzpHUKA) · [PDF](https://arxiv.org/pdf/2309.02594)
 
@@ -69,13 +69,13 @@ Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6
 
 ***Carlos Eduardo de Carvalho Dantas**, Adriano Mendonça Rocha, and Marcelo de Almeida Maia*
 
-37th Brazilian Symposium on Software Engineering ([SBES](https://cbsoft2023.ufms.br/en-US)), 2023.
+Brazilian Symposium on Software Engineering - Research Track ([SBES](https://cbsoft2023.ufms.br/en-US)) | 37th ed. | 2023.
 
 [DOI](https://dl.acm.org/doi/10.1145/3613372.3613413) · [PDF](https://dl.acm.org/doi/pdf/10.1145/3613372.3613413)
 
 🏆 **Distinguished Paper Award**  
 
-🎤 Presented at International Conference on Software Engineering [(ICSE)](https://conf.researchr.org/track/icse-2026/icse-2026-brazilian-software-engineering-showcase#event-overview), (Brazilian Software Engineering Showcase Track), 2026.
+🎤 Presented at International Conference on Software Engineering [(ICSE)](https://conf.researchr.org/track/icse-2026/icse-2026-brazilian-software-engineering-showcase#event-overview), (Brazilian Software Engineering Showcase Track) | 2026.
 
 ---
 
@@ -83,7 +83,7 @@ Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6
 
 ***Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
 
-27th International Conference on Computer Science and Software Engineering ([CASCON](https://dl.acm.org/doi/proceedings/10.5555/3172795)), 2017. 
+International Conference on Computer Science and Software Engineering ([CASCON](https://dl.acm.org/doi/proceedings/10.5555/3172795)) | 27th | 2017. 
 
 [DOI](https://dl.acm.org/doi/10.5555/3172795.3172813) · [PDF](http://lascam.facom.ufu.br/cms/userfiles/downloads/2017/CASCON2017-Inheritance-X-Interface.pdf)
 
@@ -97,7 +97,7 @@ Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6
 
 *Julyanara Rodrigues Silva, Marcelo de Almeida Maia, and **Carlos Eduardo de Carvalho Dantas***
 
-4th Workshop on Intelligent Software Engineering ([ISE](https://www.virtus.ufcg.edu.br/iseworkshop/?lang=en)), 2025. 
+Intelligent Software Engineering Workshop ([ISE](https://www.virtus.ufcg.edu.br/iseworkshop/?lang=en)) | 4th ed. | 2025. 
 
 🏆 **Best Paper Award**
 
@@ -109,7 +109,7 @@ Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6
 
 *Giovanna Fernandes, Marcelo de Almeida Maia, and **Carlos Eduardo de Carvalho Dantas*** 
 
-13th Workshop on Software Visualization, Evolution and Maintenance ([VEM](https://vemworkshop.github.io/vem2025/?lang=en)), 2025. 
+Workshop on Software Visualization, Evolution and Maintenance ([VEM](https://vemworkshop.github.io/vem2025/?lang=en)) | 13th ed. | 2025. 
 
 🏆 **Distinguished Paper Award**
 
@@ -118,9 +118,10 @@ Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6
 ---
 
 ### What Developers Ask to ChatGPT in GitHub Pull Requests? An Exploratory Study 
+
 *Julyanara Rodrigues Silva, **Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
 
-12th Workshop on Software Visualization, Evolution and Maintenance ([VEM](https://vemworkshop.github.io/vem2024/)), 2024. 
+Workshop on Software Visualization, Evolution and Maintenance ([VEM](https://vemworkshop.github.io/vem2024/)) | 12th ed. | 2024. 
 
 🏆 **Best Paper Award**
 
@@ -132,9 +133,19 @@ Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6
 
 ***Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
 
-9th Workshop on Software Visualization, Evolution and Maintenance ([VEM](https://vemworkshop.github.io/vem2021/index.html)), 2021. 
+Workshop on Software Visualization, Evolution and Maintenance ([VEM](https://vemworkshop.github.io/vem2021/index.html)) | 9th ed. | 2021. 
 
 [DOI](https://doi.org/10.5753/vem.2021.17217) · [PDF](https://arxiv.org/pdf/2108.09181.pdf)
+
+---
+
+### Readability and Understandability of Snippets Recommended by General-purpose Web Search Engines: a Comparative Study
+
+***Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
+
+Automated Support to Improve Code Readability ([AeSIR](https://aesir-workshop.github.io/aesir2021/index.html)) | 1st ed. | 2021. 
+
+[PDF](https://arxiv.org/pdf/2110.07087)
 
 ---
 
@@ -142,7 +153,7 @@ Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6
 
 ***Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
 
-4th Workshop on Software Visualization, Evolution and Maintenance ([VEM](https://vem2016.ufba.br/)), 2016. 
+Workshop on Software Visualization, Evolution and Maintenance ([VEM](https://vem2016.ufba.br/)) | 4th ed. | 2016. 
 
 [PDF](https://vem2016.ufba.br/artigos/Session2_VEM_2016_paper_27.pdf)
 
@@ -156,7 +167,7 @@ Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6
 
 ***Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
 
-Software Engineering Doctoral and Master Theses Competition (CTD-ES), held as part of the 40th Brazilian Symposium on Software Engineering ([SBES](https://cbsoft.sbc.org.br/2026/pt/symposiums/sbes/ctd/papers/)), 2026.
+Software Engineering Doctoral and Master Theses Competition (CTD-ES) | Brazilian Symposium on Software Engineering ([SBES](https://cbsoft.sbc.org.br/2026/pt/symposiums/sbes/ctd/papers/)) | 40th ed. | 2026.
 
 🎖️ **PhD Thesis Finalist**
 
@@ -166,7 +177,7 @@ Software Engineering Doctoral and Master Theses Competition (CTD-ES), held as pa
 
 *Felipe Augusto Guimarães Reis, Marcelo de Almeida Maia, and **Carlos Eduardo de Carvalho Dantas***
 
-Undergraduate Research Competition (CTIC-ES), part of the 39th Brazilian Symposium on Software Engineering ([SBES](https://cbsoft.sbc.org.br/2025/sbes/ctic/?lang=en)), 2025.
+Undergraduate Research Competition (CTIC-ES) | Brazilian Symposium on Software Engineering ([SBES](https://cbsoft.sbc.org.br/2025/sbes/ctic/?lang=en)) | 39th ed. | 2025.
 
 🎖️ **CTIC Finalist – 4th place out of 26 submissions**  
 
@@ -182,7 +193,7 @@ Undergraduate Research Competition (CTIC-ES), part of the 39th Brazilian Symposi
 
 *Lucas Oliveira Pires and **Carlos Eduardo de Carvalho Dantas***  
 
-Java Magazine ([DevMedia](https://www.devmedia.com.br/revista-java-magazine-143/33276)), ed. 143, 2015.
+Java Magazine ([DevMedia](https://www.devmedia.com.br/revista-java-magazine-143/33276)) | ed. 143 | 2015.
 
 ---
 
@@ -190,7 +201,7 @@ Java Magazine ([DevMedia](https://www.devmedia.com.br/revista-java-magazine-143/
 
 ***Carlos Eduardo de Carvalho Dantas** and Leandro Contato Guimarães*  
 
-Java Magazine ([DevMedia](https://www.devmedia.com.br/revista-java-magazine-112/27159)), ed. 112, 2013.
+Java Magazine ([DevMedia](https://www.devmedia.com.br/revista-java-magazine-112/27159)) | ed. 112 | 2013.
 
 ---
 
@@ -202,7 +213,7 @@ Java Magazine ([DevMedia](https://www.devmedia.com.br/revista-java-magazine-112/
 
 *Amanda Laiz Alves de Sousa Rodrigues and **Carlos Eduardo de Carvalho Dantas***  
 
-Periódico de Pesquisa e Trabalhos de Conclusão de Curso v.11 / 202 | IFTM Campus Uberlândia Centro | ISSN 2526-2041
+Periódico de Pesquisa e Trabalhos de Conclusão de Curso v.11 / 2026 | IFTM Campus Uberlândia Centro | ISSN 2526-2041
 
 [PDF](http://waltenomartins.com.br/periodico_campus_2026.pdf)
 
@@ -229,6 +240,36 @@ Periódico de Pesquisa e Trabalhos de Conclusão de Curso v.1 / 2016 | IFTM Camp
 ---
 
 ## Extended Abstracts
+
+---
+
+### 🇧🇷 IAs Generativas na Programação: Um Estudo Comparativo da Qualidade do Código Sugerido por ChatGPT, Deep Seek e Gemini 
+
+*Giovanna Fernandes, Marcelo de Almeida Maia, and **Carlos Eduardo de Carvalho Dantas*** 
+
+Anais do 15th Seminário de Iniciação Científica e Inovação Tecnológica do IFTM (XV SIN) / 2025 | ISSN 2316-9338
+
+[PDF](https://iftm.edu.br/sin/2025/anais/?src=7268)
+
+---
+
+### 🇧🇷 O Código que os Desenvolvedores Escreveram e o Código que Poderiam Escrever: Uma Perspectiva sobre Identificadores Sugeridos por LLMs
+
+*Julyanara Rodrigues Silva, **Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
+
+Anais do 15th Seminário de Iniciação Científica e Inovação Tecnológica do IFTM (XV SIN) / 2025 | ISSN 2316-9338
+
+[PDF](https://iftm.edu.br/sin/2025/anais/?src=7277)
+
+---
+
+### 🇧🇷 AVALIANDO AS INTERAÇÕES ENTRE DESENVOLVEDORES E CHATGPT NO GITHUB: UMA ANÁLISE DE DADOS DE PULL REQUESTS
+
+*Julyanara Rodrigues Silva, **Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
+
+Anais do 14th Seminário de Iniciação Científica e Inovação Tecnológica do IFTM (XIV SIN) / 2025 | ISSN 2316-9338
+
+[PDF](https://iftm.edu.br/sin/2024/anais/?src=6286)
 
 ---
 
