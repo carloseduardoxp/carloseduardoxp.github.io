@@ -1,90 +1,39 @@
 ---
 ---
 
-/* imports do tema */
-@import "vendor/breakpoint/breakpoint";
-@import "variables";
-@import "mixins";
-@import "vendor/susy/susy";
-@import "reset";
-@import "base";
-@import "utilities";
-@import "animations";
-@import "tables";
-@import "buttons";
-@import "notices";
-@import "masthead";
-@import "navigation";
-@import "footer";
-@import "syntax";
-@import "forms";
-@import "page";
-@import "archive";
-@import "sidebar";
-@import "vendor/font-awesome/fontawesome";
-@import "vendor/font-awesome/solid";
-@import "vendor/font-awesome/brands";
-@import "vendor/magnific-popup/magnific-popup";
-@import "print";
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
 
-html { font-size: 17px; }
-body { line-height: 1.75; }
+@import
+    "vendor/breakpoint/breakpoint",
 
-.page { max-width: 1280px; }
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
-.page__title {
-  font-size: 2.1rem;
-  line-height: 1.2;
-}
+    "include/mixins",
+    "vendor/susy/susy",
 
-.page__content h2 {
-  margin-top: 2.2rem;
-  padding-bottom: 0.35rem;
-  border-bottom: 2px solid #e9eef3;
-}
+    "layout/reset",
+    "layout/base",
 
-.author__avatar img {
-  border-radius: 18px;
-  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
-}
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
 
-.author__content {
-  background: #f8fbfd;
-  border: 1px solid #e5edf3;
-  border-radius: 18px;
-  padding: 1.2rem 1rem;
-}
+    "layout/forms",
 
-.masthead {
-  border-bottom: 1px solid #e8edf2;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.03);
-}
-
-
-.masthead {
-  border-bottom: 1px solid #e8edf2;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.03);
-}
-
-.greedy-nav {
-  background: #ffffff;
-}
-
-.greedy-nav a {
-  font-weight: 600;
-  letter-spacing: 0.01em;
-}
-
-.greedy-nav .visible-links a {
-  position: relative;
-}
-
-.greedy-nav .visible-links a:hover::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: -0.35rem;
-  width: 100%;
-  height: 2px;
-  background: currentColor;
-}
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv"
+;
