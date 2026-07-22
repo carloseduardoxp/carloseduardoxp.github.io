@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Articles
+## Journal Articles (3)
 
 ---
 
@@ -17,7 +17,7 @@ Journal of Software Engineering Research and Development ([JSERD](https://journa
 
 [DOI](https://doi.org/10.5753/jserd.2025.4494) · [PDF](https://journals-sol.sbc.org.br/index.php/jserd/article/view/4494/3279)
 
-🎤 Presented at Brazilian Symposium on Software Engineering [SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/pesquisa/) (Journal First Track) | 39th ed. | 2025.
+🎤 Presented at Brazilian Symposium on Software Engineering [SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/pesquisa/) | Journal First Track | 39th ed. | 2025.
 
 ---
 
@@ -41,7 +41,7 @@ Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6
 
 ---
 
-## Peer-Reviewed Conference Papers
+## Peer-Reviewed Conference Papers (4)
 
 ---
 
@@ -49,7 +49,7 @@ Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6
 
 *Ruan Pablo de Assis Neres, Marcelo de Almeida Maia, and **Carlos Eduardo de Carvalho Dantas***  
 
-Brazilian Symposium on Software Engineering - Tools Track ([SBES Tools](https://cbsoft.sbc.org.br/2026/pt)) | 40th ed. | 2026.
+Brazilian Symposium on Software Engineering ([SBES Tools](https://cbsoft.sbc.org.br/2026/pt)) | Tools Track | 40th ed. | 2026.
 
 🟢 **Accepted**
 
@@ -75,7 +75,7 @@ Brazilian Symposium on Software Engineering - Research Track ([SBES](https://cbs
 
 🏆 **Distinguished Paper Award**  
 
-🎤 Presented at International Conference on Software Engineering [(ICSE)](https://conf.researchr.org/track/icse-2026/icse-2026-brazilian-software-engineering-showcase#event-overview), (Brazilian Software Engineering Showcase Track) | 2026.
+🎤 Presented at International Conference on Software Engineering [(ICSE)](https://conf.researchr.org/track/icse-2026/icse-2026-brazilian-software-engineering-showcase#event-overview) | Brazilian Software Engineering Showcase Track | 48th ed. | 2026.
 
 ---
 
@@ -89,7 +89,7 @@ International Conference on Computer Science and Software Engineering ([CASCON](
 
 ---
 
-## Peer-Reviewed Workshop Papers
+## Peer-Reviewed Workshop Papers (6)
 
 ---
 
@@ -159,7 +159,7 @@ Workshop on Software Visualization, Evolution and Maintenance ([VEM](https://vem
 
 ---
 
-## Awards and Competitions
+## Awards and Competitions (2)
 
 ---
 
@@ -185,7 +185,7 @@ Undergraduate Research Competition (CTIC-ES) | Brazilian Symposium on Software E
  
 ---
 
-## Professional Magazine Articles
+## Professional Magazine Articles (2)
 
 ---
 
@@ -205,7 +205,7 @@ Java Magazine ([DevMedia](https://www.devmedia.com.br/revista-java-magazine-112/
 
 ---
 
-## Local Periodic Articles
+## Local Periodic Articles (3)
 
 ---
 
@@ -239,7 +239,7 @@ Periódico de Pesquisa e Trabalhos de Conclusão de Curso v.1 / 2016 | IFTM Camp
 
 ---
 
-## Extended Abstracts
+## Extended Abstracts (14)
 
 ---
 
