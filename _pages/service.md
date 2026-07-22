@@ -19,6 +19,7 @@ author_profile: true
 - [14th Workshop on Software Visualization, Evolution and Maintenance](https://vemworkshop.github.io/vem2026/callForPapers.html) (2026, 3 papers).
 - [Artifacts Festival at CBSOFT 2026](https://cbsoft.sbc.org.br/2026/pt/artifacts/) (2026, 2 papers).
 - [Artifacts Festival at CBSOFT 2025](https://cbsoft.sbc.org.br/2025/artefatos/) (2025, 2 papers).
+  
 ---
 
 ## Conference Organization
