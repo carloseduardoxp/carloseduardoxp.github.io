@@ -17,7 +17,7 @@ Journal of Software Engineering Research and Development ([JSERD](https://journa
 
 [DOI](https://doi.org/10.5753/jserd.2025.4494) · [PDF](https://journals-sol.sbc.org.br/index.php/jserd/article/view/4494/3279)
 
-🎤 Presented at Brazilian Symposium on Software Engineering [SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/pesquisa/) | Journal First Track | 39th ed. | 2025.
+🎤 Presented at Brazilian Symposium on Software Engineering ([SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/pesquisa/)) | Journal First Track | 39th ed. | 2025.
 
 ---
 
