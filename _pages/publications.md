@@ -5,27 +5,39 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Papers
+## Journal Articles
 
 ---
 
-### [The Influence of Search Engine Ranking Quality on the Performance of Developers](https://journals-sol.sbc.org.br/index.php/jserd/article/view/4494)
+### The Influence of Search Engine Ranking Quality on the Performance of Developers
+
 *Adriano Mendonça Rocha, **Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
-Journal of Software Engineering Research and Development (JSERD), 2025. [DOI](https://doi.org/10.5753/jserd.2025.4494)
+
+Journal of Software Engineering Research and Development ([JSERD](https://journals-sol.sbc.org.br/index.php/jserd/issue/view/363)), vol. 13, 2025. 
+
+[DOI](https://doi.org/10.5753/jserd.2025.4494) · [PDF](https://journals-sol.sbc.org.br/index.php/jserd/article/view/4494/3279)
 
 🎤 Presented in the Journal First Track at [SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/pesquisa/)
 
 ---
 
-### [Improved retrieval of programming solutions with code examples using a multi-featured score](https://arxiv.org/pdf/2108.02702.pdf)
-*Rodrigo Fernandes Gomes da Silva, Mohammad Masudur Rahman, **Carlos Eduardo de Carvalho Dantas**, Chanchal Roy, Foutse Khomh, and Marcelo de Almeida Maia.*  
-Journal of Systems and Software (JSS), 2021. [DOI](https://doi.org/10.1016/j.jss.2021.111063)
+### Improved retrieval of programming solutions with code examples using a multi-featured score
 
+*Rodrigo Fernandes Gomes da Silva, Mohammad Masudur Rahman, **Carlos Eduardo de Carvalho Dantas**, Chanchal Roy, Foutse Khomh, and Marcelo de Almeida Maia.*  
+
+Journal of Systems and Software ([JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software/vol/181/suppl/C)), vol. 181, 2021.
+
+[DOI](https://doi.org/10.1016/j.jss.2021.111063) · [PDF](https://arxiv.org/pdf/2108.02702.pdf)
+ 
 ---
 
-### [CROKAGE: effective solution recommendation for programming tasks by leveraging crowd knowledge](https://www.researchgate.net/publication/344081657_CROKAGE_effective_solution_recommendation_for_programming_tasks_by_leveraging_crowd_knowledge)
+### CROKAGE: effective solution recommendation for programming tasks by leveraging crowd knowledge
+
 *Rodrigo Fernandes Gomes da Silva, Chanchal Roy, Mohammad Masudur Rahman, Kevin A. Schneider, Klérisson V. R. Paixão, **Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia.*  
-Empirical Software Engineering (EMSE), 2020. [DOI](https://doi.org/10.1007/s10664-020-09863-2)
+
+Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6)), vol. 25, 2020. 
+
+[DOI](https://doi.org/10.1007/s10664-020-09863-2) · [PDF Phd Thesis](https://repositorio.ufu.br/bitstream/123456789/29401/5/CROKAGEEffectiveSolutionRecommendation.pdf)
 
 ---
 
@@ -34,32 +46,49 @@ Empirical Software Engineering (EMSE), 2020. [DOI](https://doi.org/10.1007/s1066
 ---
 
 ### JADE: A VSCode Plugin for Static Analysis-Guided AI-Assisted RefactoringHow do Developers Improve Code Readability?
+
 *Ruan Pablo de Assis Neres, Marcelo de Almeida Maia, and **Carlos Eduardo de Carvalho Dantas***  
-(accepted) 40th Brazilian Symposium on Software Engineering - Tools Track ([SBES-Tools](https://cbsoft.sbc.org.br/2026/pt)), 2026.
+
+40th Brazilian Symposium on Software Engineering - Tools Track ([SBES-Tools](https://cbsoft.sbc.org.br/2026/pt)), 2026.
+
+🟢 **Accepted**
 
 ---
 
-### [How do Developers Improve Code Readability? An Empirical Study of Pull Requests](https://conf.researchr.org/details/icsme-2023/icsme-2023-papers/24/How-do-Developers-Improve-Code-Readability-An-Empirical-Study-of-Pull-Requests)
-***Carlos Eduardo de Carvalho Dantas**, *Adriano Mendonça Rocha, and Marcelo de Almeida Maia*
+### How do Developers Improve Code Readability? An Empirical Study of Pull Requests
+
+***Carlos Eduardo de Carvalho Dantas**, Adriano Mendonça Rocha, and Marcelo de Almeida Maia*
+
 39th International Conference on Software Maintenance and Evolution ([ICSME](https://conf.researchr.org/home/icsme-2023)), 2023. 
 
+[DOI](10.1109/ICSME58846.2023.00022) · [PDF](https://arxiv.org/pdf/2309.02594)
+
 ---
 
-### 🏆 **Award Paper**: [Assessing the Readability of ChatGPT Code Snippet Recommendations: A Comparative Study](https://dl.acm.org/doi/pdf/10.1145/3613372.3613413)
-***Carlos Eduardo de Carvalho Dantas**, *Adriano Mendonça Rocha, and Marcelo de Almeida Maia*
-37th Brazilian Symposium on Software Engineering ([SBES](https://cbsoft2023.ufms.br/en-US)), 2023. [DOI](https://dl.acm.org/doi/10.1145/3613372.3613413)
+### Assessing the Readability of ChatGPT Code Snippet Recommendations: A Comparative Study
 
+***Carlos Eduardo de Carvalho Dantas**, Adriano Mendonça Rocha, and Marcelo de Almeida Maia*
+
+37th Brazilian Symposium on Software Engineering ([SBES](https://cbsoft2023.ufms.br/en-US)), 2023.
+
+[DOI](https://dl.acm.org/doi/10.1145/3613372.3613413) · [PDF](https://dl.acm.org/doi/pdf/10.1145/3613372.3613413)
+
+🏆 **Distinguished Paper Award**  
 🎤 Presented in the Brazilian Software Engineering Showcase Track, co-located with [ICSE 2026](https://conf.researchr.org/track/icse-2026/icse-2026-brazilian-software-engineering-showcase#event-overview)
 
 ---
 
-### [On the Actual Use of Inheritance and Interface in Java Projects: Evolution and Implications](http://lascam.facom.ufu.br/cms/userfiles/downloads/2017/CASCON2017-Inheritance-X-Interface.pdf)
+### On the Actual Use of Inheritance and Interface in Java Projects: Evolution and Implications
+
 ***Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
-27th International Conference on Computer Science and Software Engineering (CASCON), 2017. [DOI](https://dl.acm.org/doi/10.5555/3172795.3172813)
+
+27th International Conference on Computer Science and Software Engineering ([CASCON](https://dl.acm.org/doi/proceedings/10.5555/3172795)), 2017. 
+
+[DOI](https://dl.acm.org/doi/10.5555/3172795.3172813) · [PDF](http://lascam.facom.ufu.br/cms/userfiles/downloads/2017/CASCON2017-Inheritance-X-Interface.pdf)
 
 ---
 
-## Competition
+## Awards and Competitions
 
 ---
 
@@ -113,7 +142,7 @@ Empirical Software Engineering (EMSE), 2020. [DOI](https://doi.org/10.1007/s1066
 
 ---
 
-## Industry Periodic Articles
+## Professional Magazine Articles
 
 ---
 
@@ -129,7 +158,7 @@ Java Magazine periodic, 2013.
 
 ---
 
-## Local Periodic Articles
+## Institutional and Local Publications
 
 ---
 
@@ -151,7 +180,7 @@ Periódico de Pesquisa e Trabalhos de Conclusão de Curso - IFTM Campus Uberlân
 
 ---
 
-## Extended Abstracts in Conference Proceedings
+## Extended Abstracts
 
 ---
 
