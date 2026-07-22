@@ -17,11 +17,11 @@ Journal of Software Engineering Research and Development ([JSERD](https://journa
 
 [DOI](https://doi.org/10.5753/jserd.2025.4494) · [PDF](https://journals-sol.sbc.org.br/index.php/jserd/article/view/4494/3279)
 
-🎤 Presented in the Journal First Track at [SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/pesquisa/)
+🎤 Presented at 39th Brazilian Symposium on Software Engineering [SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/pesquisa/) (Journal First Track), 2025.
 
 ---
 
-### Improved retrieval of programming solutions with code examples using a multi-featured score
+### Improved Retrieval of Programming Solutions with Code Examples Using a Multi-featured Score
 
 *Rodrigo Fernandes Gomes da Silva, Mohammad Masudur Rahman, **Carlos Eduardo de Carvalho Dantas**, Chanchal Roy, Foutse Khomh, and Marcelo de Almeida Maia.*  
 
@@ -31,25 +31,25 @@ Journal of Systems and Software ([JSS](https://www.sciencedirect.com/journal/jou
  
 ---
 
-### CROKAGE: effective solution recommendation for programming tasks by leveraging crowd knowledge
+### CROKAGE: Effective Solution Recommendation for Programming Tasks by Leveraging Crowd Knowledge
 
 *Rodrigo Fernandes Gomes da Silva, Chanchal Roy, Mohammad Masudur Rahman, Kevin A. Schneider, Klérisson V. R. Paixão, **Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia.*  
 
 Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6)), vol. 25, 2020. 
 
-[DOI](https://doi.org/10.1007/s10664-020-09863-2) · [PDF Phd Thesis](https://repositorio.ufu.br/bitstream/123456789/29401/5/CROKAGEEffectiveSolutionRecommendation.pdf)
+[DOI](https://doi.org/10.1007/s10664-020-09863-2) · [Extended Version (PhD Thesis)](https://repositorio.ufu.br/bitstream/123456789/29401/5/CROKAGEEffectiveSolutionRecommendation.pdf)
 
 ---
 
-## Peer Reviewed Conference Papers
+## Peer-Reviewed Conference Papers
 
 ---
 
-### JADE: A VSCode Plugin for Static Analysis-Guided AI-Assisted RefactoringHow do Developers Improve Code Readability?
+### JADE: A VS Code Plugin for Static Analysis-Guided AI-Assisted Refactoring
 
 *Ruan Pablo de Assis Neres, Marcelo de Almeida Maia, and **Carlos Eduardo de Carvalho Dantas***  
 
-40th Brazilian Symposium on Software Engineering - Tools Track ([SBES-Tools](https://cbsoft.sbc.org.br/2026/pt)), 2026.
+40th Brazilian Symposium on Software Engineering - Tools Track ([SBES Tools](https://cbsoft.sbc.org.br/2026/pt)), 2026.
 
 🟢 **Accepted**
 
@@ -61,7 +61,7 @@ Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6
 
 39th International Conference on Software Maintenance and Evolution ([ICSME](https://conf.researchr.org/home/icsme-2023)), 2023. 
 
-[DOI](10.1109/ICSME58846.2023.00022) · [PDF](https://arxiv.org/pdf/2309.02594)
+[DOI](https://www.computer.org/csdl/proceedings-article/icsme/2023/278300a110/1SN6kzpHUKA) · [PDF](https://arxiv.org/pdf/2309.02594)
 
 ---
 
@@ -74,7 +74,8 @@ Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6
 [DOI](https://dl.acm.org/doi/10.1145/3613372.3613413) · [PDF](https://dl.acm.org/doi/pdf/10.1145/3613372.3613413)
 
 🏆 **Distinguished Paper Award**  
-🎤 Presented in the Brazilian Software Engineering Showcase Track, co-located with [ICSE 2026](https://conf.researchr.org/track/icse-2026/icse-2026-brazilian-software-engineering-showcase#event-overview)
+
+🎤 Presented at International Conference on Software Engineering [(ICSE)](https://conf.researchr.org/track/icse-2026/icse-2026-brazilian-software-engineering-showcase#event-overview), (Brazilian Software Engineering Showcase Track), 2026.
 
 ---
 
@@ -88,95 +89,142 @@ Empirical Software Engineering ([EMSE](https://dl.acm.org/toc/klu-emse/2020/25/6
 
 ---
 
+## Peer-Reviewed Workshop Papers
+
+---
+
+### Do LLMs Suggest Consistent Identifiers? An Empirical Study on GitHub Pull Requests
+
+*Julyanara Rodrigues Silva, Marcelo de Almeida Maia, and **Carlos Eduardo de Carvalho Dantas***
+
+4th Workshop on Intelligent Software Engineering ([ISE](https://www.virtus.ufcg.edu.br/iseworkshop/?lang=en)), 2025. 
+
+🏆 **Best Paper Award**
+
+[DOI](https://doi.org/10.5753/ise.2025.14870) · [PDF](https://sol.sbc.org.br/index.php/ise/article/view/36858/36644)
+
+---
+
+### How Readable Is LLM-Generated Code Snippets? A Comparison of ChatGPT, DeepSeek, and Gemini
+
+*Giovanna Fernandes, Marcelo de Almeida Maia, and **Carlos Eduardo de Carvalho Dantas*** 
+
+13th Workshop on Software Visualization, Evolution and Maintenance ([VEM](https://vemworkshop.github.io/vem2025/?lang=en)), 2025. 
+
+🏆 **Distinguished Paper Award**
+
+[DOI](https://doi.org/10.5753/vem.2025.14275) · [PDF](https://sol.sbc.org.br/index.php/vem/article/view/36868/36654)
+
+---
+
+### What Developers Ask to ChatGPT in GitHub Pull Requests? An Exploratory Study 
+*Julyanara Rodrigues Silva, **Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
+
+12th Workshop on Software Visualization, Evolution and Maintenance ([VEM](https://vemworkshop.github.io/vem2024/)), 2024. 
+
+🏆 **Best Paper Award**
+
+[DOI](https://doi.org/10.5753/vem.2024.3913) · [PDF](https://sol.sbc.org.br/index.php/vem/article/view/30288/30094)
+
+---
+
+### Readability and Understandability Scores for Snippet Assessment: An Exploratory Study
+
+***Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
+
+9th Workshop on Software Visualization, Evolution and Maintenance ([VEM](https://vemworkshop.github.io/vem2021/index.html)), 2021. 
+
+[DOI](https://doi.org/10.5753/vem.2021.17217) · [PDF](https://arxiv.org/pdf/2108.09181.pdf)
+
+---
+
+### 🇧🇷 Uma análise da Associação de Co-ocorrência de Anomalias de Código com Métricas Estruturais
+
+***Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
+
+4th Workshop on Software Visualization, Evolution and Maintenance ([VEM](https://vem2016.ufba.br/)), 2016. 
+
+[PDF](https://vem2016.ufba.br/artigos/Session2_VEM_2016_paper_27.pdf)
+
+---
+
 ## Awards and Competitions
 
 ---
 
 ### Code Readability Assessment and Improvement: Human and Automated Perspectives
+
 ***Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
-🎖️ PhD Thesis Finalist at the Software Engineering Doctoral and Master Theses Competition (CTD-ES), held as part of the Brazilian Symposium on Software Engineering ([SBES 2026](https://cbsoft.sbc.org.br/2026/pt/symposiums/sbes/ctd/papers/))
+
+Software Engineering Doctoral and Master Theses Competition (CTD-ES), held as part of the 40th Brazilian Symposium on Software Engineering ([SBES](https://cbsoft.sbc.org.br/2026/pt/symposiums/sbes/ctd/papers/)), 2026.
+
+🎖️ **PhD Thesis Finalist**
 
 ---
 
-### [How Close Is ChatGPT to Developer Judgment? A Study on Stack Overflow Java Questions](https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/36964)
+### How Close Is ChatGPT to Developer Judgment? A Study on Stack Overflow Java Questions
+
 *Felipe Augusto Guimarães Reis, Marcelo de Almeida Maia, and **Carlos Eduardo de Carvalho Dantas***
-🎖️ CTIC Finalist – 4th place out of 26 submissions at the Undergraduate Research Competition (CTIC-ES), part of the 39th Brazilian Symposium on Software Engineering ([SBES 2025](https://cbsoft.sbc.org.br/2025/sbes/ctic/?lang=en))
 
-## Peer Reviewed Workshop Papers
+Undergraduate Research Competition (CTIC-ES), part of the 39th Brazilian Symposium on Software Engineering ([SBES](https://cbsoft.sbc.org.br/2025/sbes/ctic/?lang=en)), 2025.
 
----
+🎖️ **CTIC Finalist – 4th place out of 26 submissions**  
 
-### 🏆 **Award Paper**: [Do LLMs Suggest Consistent Identifiers? An Empirical Study on GitHub Pull Requests](https://sol.sbc.org.br/index.php/ise/article/view/36858)
-*Julyanara Rodrigues Silva, Marcelo de Almeida Maia, and **Carlos Eduardo de Carvalho Dantas***
-4th Workshop on Brazilian Workshop on Intelligent Software Engineering ([ISE'25](https://www.virtus.ufcg.edu.br/iseworkshop/?lang=en)), 2025. 
-
----
-
-### 🏆 **Award Paper**: [How Readable Is LLM-Generated Code Snippets? A Comparison of ChatGPT, DeepSeek, and Gemini](https://sol.sbc.org.br/index.php/vem/article/view/36868/36654)
-*Giovanna Fernandes, Marcelo de Almeida Maia, and **Carlos Eduardo de Carvalho Dantas*** 
-13th Workshop on Software Visualization, Evolution and Maintenance ([VEM'25](https://vemworkshop.github.io/vem2025/?lang=en)), 2025. 
-
----
-
-### 🏆 **Award Paper**: [What Developers Ask to ChatGPT in GitHub Pull Requests? an Exploratory Study](https://sol.sbc.org.br/index.php/vem/article/view/30288/30094)
-*Julyanara Rodrigues Silva, **Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
-12th Workshop on Software Visualization, Evolution and Maintenance ([VEM'24](https://vemworkshop.github.io/vem2024/))], 2024. 
-
----
-
-### [Readability and Understandability of Snippets Recommended by General-purpose Web Search Engines: a Comparative Study](https://arxiv.org/pdf/2110.07087.pdf)
-*DANTAS, C. E. C.; MAIA, M. A*  
-1st International Workshop on Automated Support to Improve Code Readability ([AeSIR](https://conf.researchr.org/details/ase-2021/ase-2021--workshop--aesir-2021/8/Readability-and-Understandability-of-Snippets-Recommended-by-General-purpose-Web-Sear)), 2021. 
-
----
-
-### [Readability and Understandability Scores for Snippet Assessment: an Exploratory Study](https://arxiv.org/pdf/2108.09181.pdf)
-***Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
-9th Workshop on Software Visualization, Evolution and Maintenance ([VEM'21](https://vemworkshop.github.io/vem2021/index.html)), 2021. [DOI](https://doi.org/10.5753/vem.2021.17217)
-
----
-
-### 🇧🇷 **[(Portuguese-BR) Uma análise da associação de co-ocorrência de anomalias de código com métricas estruturais](https://vem2016.ufba.br/artigos/Session2_VEM_2016_paper_27.pdf)**
-***Carlos Eduardo de Carvalho Dantas**, and Marcelo de Almeida Maia*
-4th Workshop on Software Visualization, Evolution and Maintenance ([VEM'16](https://vem2016.ufba.br/)), 2016. 
-
+[DOI](https://doi.org/10.5753/cbsoft_estendido.2025.14164) · [PDF](https://sol.sbc.org.br/index.php/cbsoft_estendido/article/view/36964/36749)
+ 
 ---
 
 ## Professional Magazine Articles
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Desenvolva aplicações com AngularJS e JavaEE](https://www.devmedia.com.br/desenvolva-aplicacoes-com-angularjs-e-java-ee/33283)**
+### 🇧🇷 Desenvolva aplicações com AngularJS e JavaEE
+
 *Lucas Oliveira Pires and **Carlos Eduardo de Carvalho Dantas***  
-Java Magazine periodic, 2015.
+
+Java Magazine ([DevMedia](https://www.devmedia.com.br/revista-java-magazine-143/33276)), ed. 143, 2015.
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Desenvolvimento com PrimeFaces](https://www.devmedia.com.br/desenvolvimento-com-primefaces/27078)**
+### 🇧🇷 Desenvolvimento com PrimeFaces
+
 ***Carlos Eduardo de Carvalho Dantas** and Leandro Contato Guimarães*  
-Java Magazine periodic, 2013.
+
+Java Magazine ([DevMedia](https://www.devmedia.com.br/revista-java-magazine-112/27159)), ed. 112, 2013.
 
 ---
 
-## Institutional and Local Publications
+## Local Periodic Articles
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Viés de Amostragem e Viés Temporal: Proposta de um Framework para Apoiar a Confiabilidade e Transparência em Modelos de Inteligência  ArtificialUm Estudo Exploratório sobre o uso do ChatGPT em ambientes de Desenvolvimento de Software](http://waltenomartins.com.br/periodico_campus_2026.pdf)**
+### 🇧🇷 Viés de Amostragem e Viés Temporal: Proposta de um Framework para Apoiar a Confiabilidade e Transparência em Modelos de Inteligência  Artificial
+
 *Amanda Laiz Alves de Sousa Rodrigues and **Carlos Eduardo de Carvalho Dantas***  
+
 Periódico de Pesquisa e Trabalhos de Conclusão de Curso - IFTM Campus Uberlândia Centro, 2026.
 
+[PDF](http://waltenomartins.com.br/periodico_campus_2026.pdf)
+
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Um Estudo Exploratório sobre o uso do ChatGPT em ambientes de Desenvolvimento de Software](https://iftm.edu.br/sdsgov/controlador2/load.php?src=b12a2d7acec778d71a7b38d8fc8d9cfd&tipo=noticia_anexo)**
+### 🇧🇷 Um Estudo Exploratório sobre o uso do ChatGPT em ambientes de Desenvolvimento de Software
+
 *Ozório Maurício da Costa and **Carlos Eduardo de Carvalho Dantas***  
+
 Periódico de Pesquisa e Trabalhos de Conclusão de Curso - IFTM Campus Uberlândia Centro, 2024.
 
+[PDF](https://iftm.edu.br/sdsgov/controlador2/load.php?src=b12a2d7acec778d71a7b38d8fc8d9cfd&tipo=noticia_anexo)
+
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Um estudo sobre a eficiência do modo Graceful para reinicialização de Servidores Web](http://waltenomartins.com.br/periodico_campus_2016.pdf)**
+### 🇧🇷 Um estudo sobre a eficiência do modo Graceful para reinicialização de Servidores Web
+
 *Léo Cândido Silva and **Carlos Eduardo de Carvalho Dantas***  
+
 Periódico de Pesquisa e Trabalhos de Conclusão de Curso - IFTM Campus Uberlândia Centro, 2016.
+
+[PDF](http://waltenomartins.com.br/periodico_campus_2016.pdf)
 
 ---
 
@@ -184,66 +232,108 @@ Periódico de Pesquisa e Trabalhos de Conclusão de Curso - IFTM Campus Uberlân
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Engenharia de Dados para Extração de Conhecimento na Avaliação do Aprendizado em Equipes de Desenvolvimento de Software](https://iftm.edu.br/simpos/2018/anais/766-%20Pronto%20ANAIS.pdf)**
+### 🇧🇷 Engenharia de Dados para Extração de Conhecimento na Avaliação do Aprendizado em Equipes de Desenvolvimento de Software 
+
 *Danielli Araújo Lima and **Carlos Eduardo de Carvalho Dantas***  
+
 Anais do Simpósio de Pós-Graduação v.5 / 2018 | Uberaba/MG | ISSN 2674-7839
+
+[PDF](https://iftm.edu.br/simpos/2018/anais/766-%20Pronto%20ANAIS.pdf)
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Uma Análise sobre Classes Orientadas a Objetos Aplicando Métricas Estruturais](https://urupemba.ifal.edu.br/back-end/pdf/iftm/?document=2045)**
+### 🇧🇷 Uma Análise sobre Classes Orientadas a Objetos Aplicando Métricas Estruturais
 *Vanderlan de Souza Filho and **Carlos Eduardo de Carvalho Dantas***  
 Anais do Simpósio de Pós-Graduação v.4 / 2017 | Uberaba/MG | ISSN 2674-7839
 
+[PDF](https://urupemba.ifal.edu.br/back-end/pdf/iftm/?document=2045)
+
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Uma Análise sobre os Motivos pelos Quais Programadores Realizam Refatoração nos Sistemas](https://iftm.edu.br/simpos/2016/Trabalhos/20160050.pdf)**
+### 🇧🇷 Uma Análise sobre os Motivos pelos Quais Programadores Realizam Refatoração nos Sistemas
+
 *Saulo Damasceno Borges and **Carlos Eduardo de Carvalho Dantas***  
+
 Anais do Simpósio de Pós-Graduação v.3 / 2016 | Uberaba/MG | ISSN 2359-0130
 
+[PDF](https://iftm.edu.br/simpos/2016/Trabalhos/20160050.pdf)
+
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Boas Práticas de Desenvolvimento de Software: Um Estudo de Caso](https://iftm.edu.br/simpos/2015/Trabalhos/5016.pdf)**
+### 🇧🇷 Boas Práticas de Desenvolvimento de Software: Um Estudo de Caso
+
 *Vinícius Gonçalves de Souza, Edson Angoti Junior, **Carlos Eduardo de Carvalho Dantas***  
+
 Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
+
+[PDF](https://iftm.edu.br/simpos/2015/Trabalhos/5016.pdf)
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Um Estudo sobre Vendor Lock-in em Bancos de Dados NoSQL](https://iftm.edu.br/simpos/2015/Trabalhos/5032.pdf)**
+### 🇧🇷 Um Estudo sobre Vendor Lock-in em Bancos de Dados NoSQL
+
 *Eduardo José Schmitt, **Carlos Eduardo de Carvalho Dantas***  
+
 Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
+
+[PDF](https://iftm.edu.br/simpos/2015/Trabalhos/5032.pdf)
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Uma Análise sobre o Uso do Liferay no Gerenciamento de Portais Web](https://iftm.edu.br/simpos/2015/Trabalhos/5042.pdf)**
+### 🇧🇷 Uma Análise sobre o Uso do Liferay no Gerenciamento de Portais Web
+
 *Nilson Bernardes Barcelos Junior, **Carlos Eduardo de Carvalho Dantas***  
+
 Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
+
+[PDF](https://iftm.edu.br/simpos/2015/Trabalhos/5042.pdf)
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Estudo sobre Envelhecimento de Software e Estratégias de Rejuvenescimento na Integração de Sistemas de Informação](https://iftm.edu.br/simpos/2015/Trabalhos/5062.pdf)**
+### 🇧🇷 Estudo sobre Envelhecimento de Software e Estratégias de Rejuvenescimento na Integração de Sistemas de Informação
+
 *Victor Hugo de Oliveira Molinar, **Carlos Eduardo de Carvalho Dantas***  
+
 Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
+
+[PDF](https://iftm.edu.br/simpos/2015/Trabalhos/5062.pdf)
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Um Estudo sobre a Eficiência do Modo Graceful para Reinicialização de Servidores Web](https://iftm.edu.br/simpos/2015/Trabalhos/5092.pdf)**
+### 🇧🇷 Um Estudo sobre a Eficiência do Modo Graceful para Reinicialização de Servidores Web
+
 *Léo Candido Silva, **Carlos Eduardo de Carvalho Dantas***  
+
 Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
+
+[PDF](https://iftm.edu.br/simpos/2015/Trabalhos/5092.pdf)
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Identificação de Características Referentes ao Mau Uso de Herança em Sistemas Comerciais](https://iftm.edu.br/simpos/2015/Trabalhos/5103.pdf)**
-*Marcelo Macedo de Melo Silva, **Carlos Eduardo de Carvalho Dantas***  
+### 🇧🇷 Identificação de Características Referentes ao Mau Uso de Herança em Sistemas Comerciais
+
+*Marcelo Macedo de Melo Silva, **Carlos Eduardo de Carvalho Dantas*** 
+
 Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
+
+[PDF](https://iftm.edu.br/simpos/2015/Trabalhos/5103.pdf)
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Utilizando Ferramentas de Detecção de Bad Smells para Recomendar Refactoring em Sistemas Comerciais](https://iftm.edu.br/simpos/2015/Trabalhos/5111.pdf)**
+### 🇧🇷 Utilizando Ferramentas de Detecção de Bad Smells para Recomendar Refactoring em Sistemas Comerciais
+
 *Lídia Novais Pádua, **Carlos Eduardo de Carvalho Dantas***  
+
 Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
+
+[PDF](https://iftm.edu.br/simpos/2015/Trabalhos/5111.pdf)
 
 ---
 
-### 🇧🇷 **[(Portuguese-BR) Utilizando Google Hacking para Encontrar Vulnerabilidades em Sites](https://iftm.edu.br/simpos/2015/Trabalhos/5112.pdf)**
+### 🇧🇷 Utilizando Google Hacking para Encontrar Vulnerabilidades em Sites
+
 *Bruno Rodrigo Barbosa Cortes, **Carlos Eduardo de Carvalho Dantas***  
+
 Anais do Simpósio de Pós-Graduação v.2 / 2015 | Uberaba/MG | ISSN 2359-0130
+
+[PDF](https://iftm.edu.br/simpos/2015/Trabalhos/5112.pdf)
