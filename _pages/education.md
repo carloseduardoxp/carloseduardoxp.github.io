@@ -13,6 +13,8 @@ redirect_from:
 - **Thesis**: [Code Readability Assessment and Improvement: Human and Automated Perspectives](https://repositorio.ufu.br/handle/123456789/46896).
 - **Advisor**: Prof. Dr. Marcelo de Almeida Maia.
 - [Slides](https://carloseduardoxp.github.io/files/doc_slides.pdf)
+- Award: Top-3 finalist at the 2026 Brazilian Symposium on Software Engineering (SBES) – [PhD Thesis Competition (CTD-ES)](https://cbsoft.sbc.org.br/2026/pt/symposiums/sbes/ctd/papers/).
+- Nominated by the Graduate Program in Computer Science for the 2026 UFU Thesis Award.
 
 ---
 
