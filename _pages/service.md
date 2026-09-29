@@ -24,8 +24,8 @@ author_profile: true
 ## PC Member
 
 - [25th Brazilian Symposium on Software Quality (SBQS 2026) - Technical Track](https://sbqs.sbc.org.br/2026/index.php/pt/chamada-de-trabalhos/trilha-de-trabalhos-tecnicos) (2026, 4 papers).
-- [40th Brazilian Symposion on Software Engineering - Education Track 2026](https://cbsoft.sbc.org.br/2026/pt/symposiums/sbes/educacao/call/) (2026, 5 papers).
-- [40th Brazilian Symposion on Software Engineering - Tools Track 2026](https://cbsoft.sbc.org.br/2026/pt/symposiums/sbes/tools/call/) (2026, 3 papers).
+- [40th Brazilian Symposium on Software Engineering - Education Track](...) (2026, 5 papers; **Distinguished Reviewer Award**).
+- [40th Brazilian Symposium on Software Engineering - Tools Track](...) (2026, 3 papers; **Distinguished Reviewer Award**).
 - [14th Workshop on Software Visualization, Evolution and Maintenance](https://vemworkshop.github.io/vem2026/callForPapers.html) (2026, 3 papers).
 - [Artifacts Festival at CBSOFT 2026](https://cbsoft.sbc.org.br/2026/pt/artifacts/) (2026, 2 papers).
 - [Artifacts Festival at CBSOFT 2025](https://cbsoft.sbc.org.br/2025/artefatos/) (2025, 2 papers).
