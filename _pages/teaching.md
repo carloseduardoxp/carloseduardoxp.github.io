@@ -65,7 +65,7 @@ author_profile: true
 ### 4 - [Technical Course in Systems Development Integrated with High School Education](https://iftm.edu.br/cursos/uberlandiacentro/tecnico-integrado/desenvolvimento-de-sistemas/)
 
 - **Courses Taught**:
-  - 2026 (1st and 2nd semester): Systems Analysis, PCU extension course "Artificial Intelligence Applied to Software Engineering", , PCU extension course "From Atari to PS5: Learning Computing Through Video Games"
+  - 2026 (1st and 2nd semester): Systems Analysis, PCU extension course "Artificial Intelligence Applied to Software Engineering", PCU extension course "From Atari to PS5: Learning Computing Through Video Games"
   - 2025 (1st and 2nd semester): Systems Analysis, Introduction to Computing and Web Design Fundamentals II
   - 2024 (1st and 2nd semester): Systems Analysis
   - 2023 (2nd semester): Systems Analysis, PCU extension course "Level Up! Enhancing Your English Skills by Studying Gaming Technology on YouTube."
