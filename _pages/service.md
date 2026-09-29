@@ -5,23 +5,6 @@ permalink: /service/
 author_profile: true
 ---
 
-## Article Reviewer
-- **Empirical Software Engineering (EMSE)** (2026, 1 paper).
-- **IEEE Transactions on Software Engineering** (2023, 1 paper).
-
----
-
-## PC Member
-
-- [25th Brazilian Symposium on Software Quality (SBQS 2026) - Technical Track](https://sbqs.sbc.org.br/2026/index.php/pt/chamada-de-trabalhos/trilha-de-trabalhos-tecnicos) (2026).
-- [40th Brazilian Symposion on Software Engineering - Education Track 2026](https://cbsoft.sbc.org.br/2026/pt/symposiums/sbes/educacao/call/) (2026, 5 papers).
-- [40th Brazilian Symposion on Software Engineering - Tools Track 2026](https://cbsoft.sbc.org.br/2026/pt/symposiums/sbes/tools/call/) (2026, 3 papers).
-- [14th Workshop on Software Visualization, Evolution and Maintenance](https://vemworkshop.github.io/vem2026/callForPapers.html) (2026, 3 papers).
-- [Artifacts Festival at CBSOFT 2026](https://cbsoft.sbc.org.br/2026/pt/artifacts/) (2026, 2 papers).
-- [Artifacts Festival at CBSOFT 2025](https://cbsoft.sbc.org.br/2025/artefatos/) (2025, 2 papers).
-  
----
-
 ## Conference Organization
 
 - **Co-Chair**, [CBSoft no Ensino Médio 2026](https://cbsoft2026.ime.usp.br/pt/cbsoft/organization/)
@@ -30,6 +13,23 @@ author_profile: true
 - **Member Volunteer**, [CBSOFT 2022 Organization](https://cbsoft2022.facom.ufu.br/organizacao.php) (UFU, 2022).
 - **Publicity Chair**, [VEM 2022](https://vemworkshop.github.io/vem2022/organization.html).
 
+---
+
+## Article Reviewer
+- **Empirical Software Engineering (EMSE)** (2026, 1 paper).
+- **IEEE Transactions on Software Engineering** (2023, 1 paper).
+
+---
+
+## PC Member
+
+- [25th Brazilian Symposium on Software Quality (SBQS 2026) - Technical Track](https://sbqs.sbc.org.br/2026/index.php/pt/chamada-de-trabalhos/trilha-de-trabalhos-tecnicos) (2026, 4 papers).
+- [40th Brazilian Symposion on Software Engineering - Education Track 2026](https://cbsoft.sbc.org.br/2026/pt/symposiums/sbes/educacao/call/) (2026, 5 papers).
+- [40th Brazilian Symposion on Software Engineering - Tools Track 2026](https://cbsoft.sbc.org.br/2026/pt/symposiums/sbes/tools/call/) (2026, 3 papers).
+- [14th Workshop on Software Visualization, Evolution and Maintenance](https://vemworkshop.github.io/vem2026/callForPapers.html) (2026, 3 papers).
+- [Artifacts Festival at CBSOFT 2026](https://cbsoft.sbc.org.br/2026/pt/artifacts/) (2026, 2 papers).
+- [Artifacts Festival at CBSOFT 2025](https://cbsoft.sbc.org.br/2025/artefatos/) (2025, 2 papers).
+  
 ---
 
 ## Article Co-Reviewer
