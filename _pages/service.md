@@ -63,8 +63,7 @@ author_profile: true
 
 ## Talks
 
-- 🇧🇷 **(Portuguese-BR) "Inteligência Artificial na Educação: possibilidades para o ensino e desafios para a avaliação"** />
-"**  
+- 🇧🇷 **(Portuguese-BR) "Inteligência Artificial na Educação: possibilidades para o ensino e desafios para a avaliação"** 
   IFTM Campus Uberlândia - 2026
   
 - 🇧🇷 **(Portuguese-BR) "Aprimoramento da Legibilidade de Código: um Estudo sobre Perspectivas Humana e Automatizada"**  
