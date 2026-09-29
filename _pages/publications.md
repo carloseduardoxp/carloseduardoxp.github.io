@@ -51,7 +51,7 @@ Empirical Software Engineering ([🌐EMSE](https://dl.acm.org/toc/klu-emse/2020/
 
 Brazilian Symposium on Software Engineering ([🌐SBES Tools](https://cbsoft.sbc.org.br/2026/pt)) | Tools Track | 40th ed. | 2026.
 
-🟢 **Accepted**
+📄[PDF](https://cbsoft.sbc.org.br/2026/data/papers/sbes/JADE%20A%20VSCode%20Plugin%20for%20Static%20Analysis-Guided%20AI-Assisted%20Refactoring.pdf)
 
 ---
 
@@ -159,7 +159,7 @@ Workshop on Software Visualization, Evolution and Maintenance ([🌐VEM](https:/
 
 ---
 
-## Awards and Competitions (2)
+## Competitions (2)
 
 ---
 
@@ -169,7 +169,9 @@ Workshop on Software Visualization, Evolution and Maintenance ([🌐VEM](https:/
 
 Software Engineering Doctoral and Master Theses Competition (CTD-ES) | Brazilian Symposium on Software Engineering ([🌐SBES](https://cbsoft.sbc.org.br/2026/pt/symposiums/sbes/ctd/papers/)) | 40th ed. | 2026.
 
-🎖️ **PhD Thesis Finalist**
+🎖️ **Top-3 finalist**
+
+📄[PDF](https://cbsoft.sbc.org.br/2026/data/papers/sbes/Code%20Readability%20Assessment%20and%20Improvement%20Human%20and%20Automated%20Perspectives.pdf)
 
 ---
 
