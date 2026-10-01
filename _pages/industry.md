@@ -39,7 +39,7 @@ author_profile: true
 
 - **Core Business**: Software Outsourcing for Algar Telecom.
 - **Main Responsibilities**:
-  - Maintained the SGP system (online mobile recharge platform) by fixing bugs and implementing customizations. 
+  - Maintained and enhanced two production systems for Algar Telecom, SGP (online mobile recharge platform) and Kaleo (ticketing system), fixing bugs and implementing customizations in Java.
   - Developed two systems for Algar Telecom: Status Report and Access Control.
 
 - **Key Technologies**: Java, Java EE (JSF, JPA), Oracle, Web Services (SOAP).
@@ -61,7 +61,7 @@ author_profile: true
 
 - **Core Business**: Software Outsourcing for ACS (Algar Call Center).
 - **Main Responsibilities**:
-  - Developed and maintained software solutions for ACS, including importing new datasets and creating customized toolbars for employees.
+  - Delivered small, fast-turnaround projects (up to 100 hours each) for ACS (Algar Call Center) client campaigns. Imported client datasets into SQL Server and built Visual Basic desktop tools for call center agents, pulling contact lists from the database and recording call feedback. Also built web-based results-tracking platforms and reports for other clients.
 
 - **Key Technologies**: Delphi, Visual Basic, ASP, Reporting Services, SQL Server.
 
@@ -71,7 +71,7 @@ author_profile: true
 
 - **Core Business**: Sales Force Automation System for Palm and PocketPC devices.
 - **Main Responsibilities**:
-  - Developed middleware to synchronize sales data between PDAs and clients' ERP systems.
+  - Developed custom Delphi middlewares for client engagements, each synchronizing sales data between a customer's ERP system and the mobile sales force application running on PDAs. Worked across different ERP platforms and databases (Oracle, Firebird, SQL Server), mapping each client's data model to the device software.
 
 - **Key Technologies**: Delphi, Oracle, SQL Server, Firebase.
 
