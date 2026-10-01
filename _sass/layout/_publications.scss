@@ -1,0 +1,95 @@
+/* ==========================================================================
+   PUBLICATIONS PAGE
+   ========================================================================== */
+
+.page__content > h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--global-border-color);
+  font-size: 0.82rem;
+  line-height: 1.4;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+}
+
+.page__content > h3 {
+  margin: 1.25rem 0 0;
+  padding: 1rem 1.15rem 0.75rem;
+  border: 1px solid var(--global-border-color);
+  border-bottom: 0;
+  border-radius: 12px 12px 0 0;
+  background: rgba(148, 163, 184, 0.08);
+  font-size: 1.1rem;
+  line-height: 1.4;
+  letter-spacing: -0.02em;
+}
+
+.page__content > h3 + p,
+.page__content > h3 + p + p,
+.page__content > h3 + p + p + p,
+.page__content > h3 + p + p + p + p,
+.page__content > h3 + p + p + p + p + p,
+.page__content > h3 + p + p + p + p + p + p,
+.page__content > h3 + p + p + p + p + p + p + p {
+  margin: 0;
+  padding: 0.8rem 1.15rem;
+  background: rgba(148, 163, 184, 0.04);
+  border-left: 1px solid var(--global-border-color);
+  border-right: 1px solid var(--global-border-color);
+  border-top: 0;
+  line-height: 1.7;
+}
+
+.page__content > h3 + p + p + p + p + p + p + p + p,
+.page__content > h3 + p + p + p + p + p + p + p + p + p {
+  border-bottom: 1px solid var(--global-border-color);
+  border-radius: 0 0 12px 12px;
+  margin-bottom: 1.5rem;
+}
+
+.page__content > h3 + p strong,
+.page__content > h3 + p em,
+.page__content > h3 + p a {
+  font-weight: 600;
+}
+
+.page__content > h3 + p:first-of-type {
+  font-style: italic;
+  color: var(--global-text-color-light);
+}
+
+.page__content > h3 + p a,
+.page__content > h3 + p + p a,
+.page__content > h3 + p + p + p a {
+  text-decoration: none;
+}
+
+.page__content > h3 + p a:hover,
+.page__content > h3 + p + p a:hover,
+.page__content > h3 + p + p + p a:hover {
+  text-decoration: underline;
+}
+
+.page__content > hr {
+  display: none;
+}
+
+@media (max-width: $small) {
+  .page__content > h3 {
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+  }
+
+  .page__content > h3 + p,
+  .page__content > h3 + p + p,
+  .page__content > h3 + p + p + p,
+  .page__content > h3 + p + p + p + p,
+  .page__content > h3 + p + p + p + p + p,
+  .page__content > h3 + p + p + p + p + p + p,
+  .page__content > h3 + p + p + p + p + p + p + p {
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+  }
+}
