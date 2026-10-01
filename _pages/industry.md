@@ -76,3 +76,10 @@ author_profile: true
 - **Key Technologies**: Delphi, Oracle, SQL Server, Firebase.
 
 ---
+
+## Early Career (2004-2005)
+
+- Computer Training Instructor: Taught Delphi, Web Design, and Photoshop courses at a computer training school.
+- Software Development Intern, engineering company: Built a warehouse inventory management system using PHP and MySQL.
+
+- **Key Technologies**: Delphi, PHP, MySQL.
