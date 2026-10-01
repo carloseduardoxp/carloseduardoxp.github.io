@@ -1,85 +1,254 @@
 /* ==========================================================================
-   PUBLICATIONS PAGE
+   PUBLICATIONS PAGE - ACADEMIC EDITORIAL DESIGN
    ========================================================================== */
 
 .page__content > h2 {
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid var(--global-border-color);
-  font-size: 0.82rem;
-  line-height: 1.4;
-  letter-spacing: 0.12em;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid var(--global-base-color);
+  font-size: 0.8rem;
+  line-height: 1.2;
+  letter-spacing: 0.15em;
   text-transform: uppercase;
-  color: var(--global-text-color-light);
+  color: var(--global-text-color);
+  font-weight: 700;
 }
 
+.page__content > h2:first-of-type {
+  margin-top: 0;
+}
+
+/* Publication Item Container */
 .page__content > h3 {
-  margin: 1.25rem 0 0;
-  padding: 1rem 1.15rem 0.75rem;
+  margin: 1.75rem 0 0;
+  padding: 1.2rem 1.3rem 0.9rem;
   border: 1px solid var(--global-border-color);
   border-bottom: 0;
-  border-radius: 12px 12px 0 0;
-  background: rgba(148, 163, 184, 0.08);
-  font-size: 1.1rem;
-  line-height: 1.4;
-  letter-spacing: -0.02em;
+  border-radius: 14px 14px 0 0;
+  background: linear-gradient(135deg, rgba(30, 58, 138, 0.04) 0%, rgba(14, 165, 233, 0.03) 100%);
+  font-size: 1.15rem;
+  line-height: 1.45;
+  letter-spacing: -0.015em;
+  color: var(--global-text-color);
+  font-weight: 600;
 }
 
-.page__content > h3 + p,
-.page__content > h3 + p + p,
+/* Award Indicator */
+.page__content > h3 {
+  position: relative;
+  padding-right: 3rem;
+}
+
+/* Authors (italicized, lighter) */
+.page__content > h3 + p:first-of-type {
+  margin: 0;
+  padding: 0.9rem 1.3rem;
+  background: rgba(148, 163, 184, 0.04);
+  border-left: 1px solid var(--global-border-color);
+  border-right: 1px solid var(--global-border-color);
+  border-top: 0;
+  font-style: italic;
+  color: var(--global-text-color-light);
+  line-height: 1.65;
+  font-size: 0.95rem;
+}
+
+/* Venue & Metadata */
+.page__content > h3 + p + p {
+  margin: 0;
+  padding: 0.85rem 1.3rem;
+  background: rgba(148, 163, 184, 0.04);
+  border-left: 1px solid var(--global-border-color);
+  border-right: 1px solid var(--global-border-color);
+  border-top: 0;
+  color: var(--global-text-color-light);
+  line-height: 1.65;
+  font-size: 0.95rem;
+}
+
+/* Links & Links Row */
 .page__content > h3 + p + p + p,
 .page__content > h3 + p + p + p + p,
 .page__content > h3 + p + p + p + p + p,
 .page__content > h3 + p + p + p + p + p + p,
 .page__content > h3 + p + p + p + p + p + p + p {
   margin: 0;
-  padding: 0.8rem 1.15rem;
+  padding: 0.9rem 1.3rem;
   background: rgba(148, 163, 184, 0.04);
   border-left: 1px solid var(--global-border-color);
   border-right: 1px solid var(--global-border-color);
   border-top: 0;
   line-height: 1.7;
+  font-size: 0.95rem;
 }
 
 .page__content > h3 + p + p + p + p + p + p + p + p,
 .page__content > h3 + p + p + p + p + p + p + p + p + p {
   border-bottom: 1px solid var(--global-border-color);
-  border-radius: 0 0 12px 12px;
-  margin-bottom: 1.5rem;
+  border-radius: 0 0 14px 14px;
+  margin-bottom: 2rem;
 }
 
-.page__content > h3 + p strong,
-.page__content > h3 + p em,
-.page__content > h3 + p a {
+/* ========================================================================
+   BADGES STYLING
+   ======================================================================== */
+
+/* Badge Container */
+.publication-badges {
+  display: inline-flex;
+  gap: 0.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 0.35rem;
+}
+
+/* Individual Badge */
+.badge {
+  display: inline-block;
+  padding: 0.35rem 0.7rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  line-height: 1.2;
+  letter-spacing: 0.04em;
+  text-decoration: none;
   font-weight: 600;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+  border: 1px solid transparent;
 }
 
-.page__content > h3 + p:first-of-type {
-  font-style: italic;
-  color: var(--global-text-color-light);
+.badge:hover {
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+/* Badge Types */
+.badge--doi {
+  background: rgba(30, 58, 138, 0.12);
+  color: #0f5ea8;
+  border-color: #0f5ea8;
+}
+
+.badge--doi:hover {
+  background: rgba(30, 58, 138, 0.22);
+  box-shadow: 0 2px 8px rgba(15, 94, 168, 0.15);
+}
+
+.badge--pdf {
+  background: rgba(220, 38, 38, 0.12);
+  color: #dc2626;
+  border-color: #dc2626;
+}
+
+.badge--pdf:hover {
+  background: rgba(220, 38, 38, 0.22);
+  box-shadow: 0 2px 8px rgba(220, 38, 38, 0.15);
+}
+
+.badge--award {
+  background: rgba(234, 179, 8, 0.15);
+  color: #b45309;
+  border-color: #b45309;
+  font-weight: 700;
+}
+
+.badge--award:hover {
+  background: rgba(234, 179, 8, 0.25);
+  box-shadow: 0 2px 8px rgba(180, 83, 9, 0.2);
+}
+
+.badge--video {
+  background: rgba(14, 165, 233, 0.12);
+  color: #0284c7;
+  border-color: #0284c7;
+}
+
+.badge--video:hover {
+  background: rgba(14, 165, 233, 0.22);
+  box-shadow: 0 2px 8px rgba(2, 132, 199, 0.15);
+}
+
+.badge--finalist {
+  background: rgba(5, 150, 105, 0.12);
+  color: #059669;
+  border-color: #059669;
+  font-weight: 700;
+}
+
+.badge--finalist:hover {
+  background: rgba(5, 150, 105, 0.22);
+  box-shadow: 0 2px 8px rgba(5, 150, 105, 0.15);
+}
+
+/* ========================================================================
+   AWARD HIGHLIGHT
+   ======================================================================== */
+
+.publication--award {
+  background: linear-gradient(135deg, rgba(234, 179, 8, 0.06) 0%, rgba(14, 165, 233, 0.03) 100%) !important;
+}
+
+.publication--award > h3 {
+  background: linear-gradient(135deg, rgba(234, 179, 8, 0.1) 0%, rgba(14, 165, 233, 0.05) 100%);
+  border-left: 4px solid #b45309;
+  padding-left: calc(1.3rem - 3px);
+}
+
+.publication--award::before {
+  content: "🏆";
+  position: absolute;
+  right: 1.3rem;
+  top: 1.2rem;
+  font-size: 1.2rem;
+  opacity: 0.8;
+}
+
+/* ========================================================================
+   TEXT & LINK STYLING
+   ======================================================================== */
+
+.page__content > h3 + p strong {
+  font-weight: 700;
+  color: var(--global-text-color);
 }
 
 .page__content > h3 + p a,
 .page__content > h3 + p + p a,
 .page__content > h3 + p + p + p a {
   text-decoration: none;
+  color: var(--global-link-color);
+  transition: color 0.2s ease-in-out;
+  font-weight: 500;
 }
 
 .page__content > h3 + p a:hover,
 .page__content > h3 + p + p a:hover,
 .page__content > h3 + p + p + p a:hover {
   text-decoration: underline;
+  color: var(--global-link-color-hover);
 }
 
+/* Hide original horizontal rules */
 .page__content > hr {
   display: none;
 }
 
+/* ========================================================================
+   RESPONSIVE
+   ======================================================================== */
+
 @media (max-width: $small) {
+  .page__content > h2 {
+    font-size: 0.75rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
   .page__content > h3 {
     padding-left: 0.9rem;
-    padding-right: 0.9rem;
+    padding-right: 2.5rem;
+    font-size: 1.05rem;
   }
 
   .page__content > h3 + p,
@@ -91,5 +260,15 @@
   .page__content > h3 + p + p + p + p + p + p + p {
     padding-left: 0.9rem;
     padding-right: 0.9rem;
+  }
+
+  .publication--award::before {
+    right: 0.9rem;
+    font-size: 1rem;
+  }
+
+  .badge {
+    padding: 0.3rem 0.55rem;
+    font-size: 0.7rem;
   }
 }
