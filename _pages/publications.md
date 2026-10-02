@@ -15,12 +15,13 @@ Software Engineering research: code readability, LLMs in software development, a
 
 ## 🏆 Highlights {#highlights}
 
+- 🎖️ **Top-3 Phd Thesis finalist**: *Code Readability Assessment and Improvement: Human and Automated Perspectives* · CTD-ES / SBES 2026
 - 🏆 **Distinguished Paper Award**: *Assessing the Readability of ChatGPT Code Snippet Recommendations* · SBES 2023 (also presented at ICSE 2026, Brazilian Software Engineering Showcase)
-- 🏆 **Distinguished Paper Award**: *How Readable Is LLM-Generated Code Snippets?* · VEM 2025
-- 🏆 **Best Paper Award**: *Do LLMs Suggest Consistent Identifiers?* · ISE 2025
-- 🏆 **Best Paper Award**: *What Developers Ask to ChatGPT in GitHub Pull Requests?* · VEM 2024
-- 🎖️ **Top-3 finalist**: *Code Readability Assessment and Improvement* · CTD-ES / SBES 2026
-- 🎖️ **4th place out of 26 submissions**: *How Close Is ChatGPT to Developer Judgment?* · CTIC-ES / SBES 2025
+- 🎖️ **4th place out of 26 submissions in the Undergraduate Research Competition**: *How Close Is ChatGPT to Developer Judgment? A Study on Stack Overflow Java Questions* · CTIC-ES / SBES 2025
+- 🏆 **Distinguished Paper Award**: *How Readable Is LLM-Generated Code Snippets? A Comparison of ChatGPT, DeepSeek, and Gemini* · VEM 2025
+- 🏆 **Best Paper Award**: *Do LLMs Suggest Consistent Identifiers? An Empirical Study on GitHub Pull Requests* · ISE 2025
+- 🏆 **Best Paper Award**: *What Developers Ask to ChatGPT in GitHub Pull Requests? An Exploratory Study* · VEM 2024
+
 
 ---
 
